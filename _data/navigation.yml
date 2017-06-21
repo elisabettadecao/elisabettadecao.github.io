@@ -1,12 +1,10 @@
-# main links
-main:
-  - title: "Curriculum Vitae"
-    url: /curriculum/
-	- title: "Research"
-     url: /research/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+# Site navigation links
+
+- title: Curriculum Vitae
+  url: /curriculum/
+
+- title: Research
+  url: /research/
+
+#- title: People
+#  url: /people/
