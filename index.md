@@ -8,8 +8,10 @@ header:
 
 # Current Position
 Research Fellow in Economics
+
 Centre for Health Service Economics & Organisation 
-Nuffield College, University of Oxford
+
+Associate Member Nuffield College, University of Oxford
 
 
 # Research Interests
