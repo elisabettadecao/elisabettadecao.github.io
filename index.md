@@ -6,20 +6,20 @@ header:
 ---
 
 
-#Current Position
+# Current Position
 Research Fellow in Economics
 Centre for Health Service Economics & Organisation 
 Nuffield College, University of Oxford
 
 
-#Research Interests
+# Research Interests
 * Health economics 
 * Development economics
 * Family economics
 * Applied Microeconometrics 
 
 
-#Contact Details
+# Contact Details
 Gibson Building, 1st floor
 Radcliffe observatory Quarter, Woodstock Road
 OX2 6GG, Oxford, United Kingdom
