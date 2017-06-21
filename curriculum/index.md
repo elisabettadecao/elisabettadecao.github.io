@@ -4,7 +4,6 @@ author_profile: true
 header:
   image: "/assets/images/panorama_web.jpg"
 ---
-# Curriculum Vitae
 
 I am a Research Fellow in Economics at the [Centre for Health Service Economics & Organisation](https://www.chseo.org.uk) of the University of Oxford, an Associate Member of [Nuffield College](https://www.nuffield.ox.ac.uk), a Research Associate at the [Centre for the Study of African Economies](www.csae.ox.ac.uk) of the University of Oxford, and a [Dondena](http://www.dondena.unibocconi.it) (Center for Research and Social Dynamics) Research Affiliate at Bocconi University. 
 
