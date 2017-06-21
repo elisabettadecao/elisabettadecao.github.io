@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  image: "/assets/images/panorama_web_.jpg"
+  image: "/assets/images/panorama_web.jpg"
 ---
 # Curriculum Vitae
 
