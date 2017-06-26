@@ -9,4 +9,4 @@ I am a Research Fellow in Economics at the [Centre for Health Service Economics 
 
 My main research interests are in health, development and family economics. My current work studies the determinants of children’s health outcomes, violence against women and children, and measurement problems. I have also done some work on statistical modelling for infectious diseases and on the evaluation of vaccination programs. To investigate my research questions I use economic modelling and different sources of data both from developed and developing countries: large cross-section and longitudinal surveys, hospital administrative data, and weather data.
 
-My CV is [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlbGlzYWJldHRhZGVjYW98Z3g6NzBlMTIzZTRhMzkxZWVjMw).
+My CV is [here](CVDeCaoJUN17.pdf).
