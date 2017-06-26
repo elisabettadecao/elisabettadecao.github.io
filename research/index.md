@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+title: Research
 header: 
   image: "/assets/images/panorama_web.jpg"
 ---
