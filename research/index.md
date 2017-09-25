@@ -7,24 +7,18 @@ header:
 
 
 ## Working papers
+* Daniel Brown and Elisabetta De Cao ["The effect of unemployment on child abuse and neglect in the United States"](https://www.economics.ox.ac.uk/materials/working_papers/4546/837-brown--de-cao.pdf)**University of Oxford. Department of Economics Discussion Paper Series No.837, September 2017** 
 
 * De Cao Elisabetta and Clemens Lutz [“Measuring attitudes regarding female genital mutilation through a list experiment”](https://www.csae.ox.ac.uk/workingpapers/pdfs/csae-wps-2015-20.pdf). University of Oxford, CSAE Working Paper WPS/2015-20. [Media coverage: RES 2015] **R&R Oxford Bulletin of Economics and Statistics**
 
 * Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque [“Assortative Mating on Education: A Genetic Assessment”](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment). December 2016. **HCEO WP Series, 2016-034.** 
 
-
 ## Work in progress
-
-* The effect of unemployment on child abuse and neglect in the United States" with Daniel Brown (Working paper coming soon)
-
-* Is health of English babies worse in recession?" with Barry McCormick and Catia Nicodemo (Working paper coming soon)
-
-* Measuring violence against women in Bangladesh" with Niaz Asadullah and Zahra Siddique
-
+* "Is health of English babies worse in recession?" with Barry McCormick and Catia Nicodemo (Working paper coming soon)
+* "Measuring violence against women in Bangladesh" with Niaz Asadullah and Zahra Siddique
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Franco Peracchi
 
 ## Publications
-
 * De Cao Elisabetta, Marloes Huis, Samson Jemaneh and Robert Lensink [“Community conversations as a strategy to change harmful traditional practices against women”](http://www.tandfonline.com/doi/full/10.1080/13504851.2016.1161713). **Applied Economics Letters**. 2016, doi: 10.1080/13504851.2016.1161713. 
 
 * De Cao Elisabetta [“The height production function from birth to age two”](http://www.journals.uchicago.edu/doi/abs/10.1086/682356). **Journal of Human Capital**. 2015, Vol. 9, No. 3, Pages 329-363.
