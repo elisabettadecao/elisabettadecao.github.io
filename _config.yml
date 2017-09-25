@@ -78,10 +78,10 @@ analytics:
 # Site Author
 author:
   name             : "Elisabetta De Cao"
-  avatar           : /assets/images/bio-photo.jpg
+  avatar           : /assets/images/resized-image.jpg
   bio              : "Research Fellow in Economics, University of Oxford"
   location         : "Oxford, UK"
-  email            :
+  email            : "elisabetta.decao@phc.ox.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
