@@ -1,26 +1,21 @@
 ---
 layout: single
 author_profile: true
-title: Research
-header: 
+header:
   image: "/assets/images/panorama_web.jpg"
 ---
 
+
 ## Working papers
+* Daniel Brown and Elisabetta De Cao ["The effect of unemployment on child abuse and neglect in the United States"](https://www.economics.ox.ac.uk/materials/working_papers/4546/837-brown--de-cao.pdf)**University of Oxford. Department of Economics Discussion Paper Series No.837, September 2017** 
 
 * De Cao Elisabetta and Clemens Lutz [“Measuring attitudes regarding female genital mutilation through a list experiment”](https://www.csae.ox.ac.uk/workingpapers/pdfs/csae-wps-2015-20.pdf). University of Oxford, CSAE Working Paper WPS/2015-20. [Media coverage: RES 2015] **R&R Oxford Bulletin of Economics and Statistics**
 
 * Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque [“Assortative Mating on Education: A Genetic Assessment”](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment). December 2016. **HCEO WP Series, 2016-034.** 
 
-
 ## Work in progress
-
-* The effect of unemployment on child abuse and neglect in the United States" with Daniel Brown (Working paper coming soon)
-
-* Is health of English babies worse in recession?" with Barry McCormick and Catia Nicodemo (Working paper coming soon)
-
-* Measuring violence against women in Bangladesh" with Niaz Asadullah and Zahra Siddique
-
+* "Is health of English babies worse in recession?" with Barry McCormick and Catia Nicodemo (Working paper coming soon)
+* "Measuring violence against women in Bangladesh" with Niaz Asadullah and Zahra Siddique
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Franco Peracchi
 
 ## Publications
@@ -41,5 +36,4 @@ header:
 ## Policy reports
 
 * Parts Stichting Gezamenlijke Evaluaties, "MFS-II Evaluations - Joint Evaluations of the Dutch Co-Financing System 2011-2015 - Country Report Ethiopia" Partos. July 2015.
-
 
