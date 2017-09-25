@@ -4,8 +4,6 @@ author_profile: true
 header:
   image: "/assets/images/panorama_web.jpg"
 ---
-
-
 ## Working papers
 * Daniel Brown and Elisabetta De Cao ["The effect of unemployment on child abuse and neglect in the United States"](https://www.economics.ox.ac.uk/materials/working_papers/4546/837-brown--de-cao.pdf). September 2017. **University of Oxford, Department of Economics Discussion Paper Series No.837.** 
 
