@@ -15,7 +15,7 @@ header:
 
 ## Work in progress
 * "Is health of English babies worse in recession?" with Barry McCormick and Catia Nicodemo (Working paper coming soon)
-* "Measuring attitudes towards domestic violence and child marriage: A List Experiment in Bangladesh" with Niaz Asadullah and Zahra Siddique
+* "Measuring attitudes towards domestic violence and child marriage: A List Experiment in Bangladesh" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Giacomo Gabbuti and Franco Peracchi 
 
 ## Publications
