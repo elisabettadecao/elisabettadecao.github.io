@@ -15,8 +15,8 @@ header:
 
 ## Work in progress
 * "Is health of English babies worse in recession?" with Barry McCormick and Catia Nicodemo (Working paper coming soon)
-* "Measuring violence against women in Bangladesh" with Niaz Asadullah and Zahra Siddique
-* "The effect of an earthquake on health and cognitive outcomes later in life" with Franco Peracchi
+* "Measuring attitudes towards domestic violence and child marriage: A List Experiment in Bangladesh" with Niaz Asadullah and Zahra Siddique
+* "The effect of an earthquake on health and cognitive outcomes later in life" with Franco Peracchi and Giacomo Gabbuti
 
 ## Publications
 * De Cao Elisabetta, Marloes Huis, Samson Jemaneh and Robert Lensink [“Community conversations as a strategy to change harmful traditional practices against women”](http://www.tandfonline.com/doi/full/10.1080/13504851.2016.1161713). **Applied Economics Letters**. 2016, doi: 10.1080/13504851.2016.1161713. 
