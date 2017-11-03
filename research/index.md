@@ -19,7 +19,7 @@ header:
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Franco Peracchi
 
 ## Publications
-* De Cao Elisabetta, Marloes Huis, Samson Jemaneh and Robert Lensink [“Community conversations as a strategy to change harmful traditional practices against women”](http://www.tandfonline.com/doi/full/10.1080/13504851.2016.1161713). **Applied Economics Letters**. 2016, doi: 10.1080/13504851.2016.1161713. 
+* De Cao Elisabetta, Marloes Huis, Samson Jemaneh and Robert Lensink [“Community conversations as a strategy to change harmful traditional practices against women”](http://www.tandfonline.com/doi/full/10.1080/13504851.2016.1161713). **Applied Economics Letters**. 2017, Vol. 24, No. 2, Pages 72-74. 
 
 * De Cao Elisabetta [“The height production function from birth to age two”](http://www.journals.uchicago.edu/doi/abs/10.1086/682356). **Journal of Human Capital**. 2015, Vol. 9, No. 3, Pages 329-363.
 
