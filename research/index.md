@@ -24,7 +24,7 @@ header:
 
 * De Cao Elisabetta [“The height production function from birth to age two”](http://www.journals.uchicago.edu/doi/abs/10.1086/682356). **Journal of Human Capital**. 2015, Vol. 9, No. 3, Pages 329-363.
 
-* Arpino Bruno, Elisabetta De Cao and Franco Peracchi [“Using panel data for partial identification of human immunodeficiency virus prevalence when infection status is missing not at random”.](http://onlinelibrary.wiley.com/doi/10.1111/rssa.12027/abstract) **Journal of the Royal Statistical Society: Series A (Statistics in Society)**. 2014, Vol. 177, Part 3, Pages 578-606 (doi: 10.1111/rssa.12027).
+* Arpino Bruno, Elisabetta De Cao and Franco Peracchi [“Using panel data for partial identification of human immunodeficiency virus prevalence when infection status is missing not at random”.](http://onlinelibrary.wiley.com/doi/10.1111/rssa.12027/abstract) **Journal of the Royal Statistical Society: Series A (Statistics in Society)**. 2014, Vol. 177, Part 3, Pages 578-606.
 
 * De Cao Elisabetta, Emilio Zagheni, Alessia Melegaro and Piero Manfredi ["The relative importance of frequency of contacts and time of exposure for the spread of directly transmitted infections”](https://academic.oup.com/biostatistics/article-lookup/doi/10.1093/biostatistics/kxu008). **Biostatistics**. 2014, Vol. 15, No. 3, Pages 470-483.
 
