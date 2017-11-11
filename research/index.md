@@ -7,7 +7,7 @@ header:
 
 ---
 ## Working papers
-* Daniel Brown and Elisabetta De Cao ["The Impact of Unemployment on Child Maltreatment in the United States"](https://www.economics.ox.ac.uk/materials/working_papers/4546/837-brown--de-cao.pdf). September 2017. **University of Oxford, Department of Economics Discussion Paper Series No.837.** 
+* Daniel Brown and Elisabetta De Cao ["The Impact of Unemployment on Child Maltreatment in the United States"](https://www.economics.ox.ac.uk/materials/working_papers/4546/837-brown--de-cao.pdf). September 2017. **University of Oxford, Department of Economics Discussion Paper Series No.837.** [Media coverage: ITV, International Business Times, Oxford University News]
 
 * Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque [“Assortative Mating on Education: A Genetic Assessment”](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment). December 2016. **HCEO WP Series, 2016-034.** 
 
