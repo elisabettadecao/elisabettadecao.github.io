@@ -11,7 +11,7 @@ header:
 
 * Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque [“Assortative Mating on Education: A Genetic Assessment”](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment). December 2016. **HCEO WP Series, 2016-034.** 
 
-* De Cao Elisabetta and Clemens Lutz [“Measuring attitudes regarding female genital mutilation through a list experiment”](https://www.csae.ox.ac.uk/workingpapers/pdfs/csae-wps-2015-20.pdf). University of Oxford, CSAE Working Paper WPS/2015-20. [Media coverage: RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html) **Conditionally Accepted, Oxford Bulletin of Economics and Statistics**
+* De Cao Elisabetta and Clemens Lutz "Sensitive survey questions: Measuring attitudes regarding female genital cutting through a list experiment". Previous version can be found [“here”](https://www.csae.ox.ac.uk/workingpapers/pdfs/csae-wps-2015-20.pdf). [Media coverage: RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html) **Conditionally Accepted, Oxford Bulletin of Economics and Statistics**
 
 ## Work in progress
 * "Is health of English babies worse in recession?" with Barry McCormick and Catia Nicodemo (Working paper coming soon)
