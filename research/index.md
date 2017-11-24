@@ -18,7 +18,7 @@ header:
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Giacomo Gabbuti and Franco Peracchi 
 
 ## Publications
-* De Cao Elisabetta and Clemens Lutz ["Sensitive survey questions: Measuring attitudes regarding female genital cutting through a list experiment"]. (../DeCaoLutz17OBES_NOV17.pdf) Previous version can be found [here](https://www.csae.ox.ac.uk/workingpapers/pdfs/csae-wps-2015-20.pdf). [Media coverage: RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html) **Conditionally Accepted, Oxford Bulletin of Economics and Statistics**
+* De Cao Elisabetta and Clemens Lutz ["Sensitive survey questions: Measuring attitudes regarding female genital cutting through a list experiment"](../DeCaoLutz17OBES_NOV17.pdf) Previous version can be found [here](https://www.csae.ox.ac.uk/workingpapers/pdfs/csae-wps-2015-20.pdf). [Media coverage: RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html) **Conditionally Accepted, Oxford Bulletin of Economics and Statistics**
 
 * De Cao Elisabetta, Marloes Huis, Samson Jemaneh and Robert Lensink [“Community conversations as a strategy to change harmful traditional practices against women”](http://www.tandfonline.com/doi/full/10.1080/13504851.2016.1161713). **Applied Economics Letters**. 2017, Vol. 24, No. 2, Pages 72-74. 
 
