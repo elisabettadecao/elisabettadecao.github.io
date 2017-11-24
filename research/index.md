@@ -11,8 +11,6 @@ header:
 
 * Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque [“Assortative Mating on Education: A Genetic Assessment”](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment). December 2016. **HCEO WP Series, 2016-034.** 
 
-* De Cao Elisabetta and Clemens Lutz ["Sensitive survey questions: Measuring attitudes regarding female genital cutting through a list experiment"]. (../DeCaoLutz17OBES_NOV17.pdf) Previous version can be found [“here”](https://www.csae.ox.ac.uk/workingpapers/pdfs/csae-wps-2015-20.pdf). [Media coverage: RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html) **Conditionally Accepted, Oxford Bulletin of Economics and Statistics**
-
 ## Work in progress
 * "Is health of English babies worse in recession?" with Barry McCormick and Catia Nicodemo (Working paper coming soon)
 * "The impact of education on female genital cutting" with Giulia La Mattina
@@ -20,6 +18,8 @@ header:
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Giacomo Gabbuti and Franco Peracchi 
 
 ## Publications
+* De Cao Elisabetta and Clemens Lutz ["Sensitive survey questions: Measuring attitudes regarding female genital cutting through a list experiment"]. (../DeCaoLutz17OBES_NOV17.pdf) Previous version can be found [“here”](https://www.csae.ox.ac.uk/workingpapers/pdfs/csae-wps-2015-20.pdf). [Media coverage: RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html) **Conditionally Accepted, Oxford Bulletin of Economics and Statistics**
+
 * De Cao Elisabetta, Marloes Huis, Samson Jemaneh and Robert Lensink [“Community conversations as a strategy to change harmful traditional practices against women”](http://www.tandfonline.com/doi/full/10.1080/13504851.2016.1161713). **Applied Economics Letters**. 2017, Vol. 24, No. 2, Pages 72-74. 
 
 * De Cao Elisabetta [“The height production function from birth to age two”](http://www.journals.uchicago.edu/doi/abs/10.1086/682356). **Journal of Human Capital**. 2015, Vol. 9, No. 3, Pages 329-363.
