@@ -7,7 +7,7 @@ header:
 
 ---
 ## Working papers
-* Daniel Brown and Elisabetta De Cao ["The Impact of Unemployment on Child Maltreatment in the United States"](https://www.economics.ox.ac.uk/materials/working_papers/4546/837-brown--de-cao.pdf). September 2017. **University of Oxford, Department of Economics Discussion Paper Series No.837.** Media coverage: [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment)
+* Daniel Brown and Elisabetta De Cao ["The Impact of Unemployment on Child Maltreatment in the United States"](https://www.economics.ox.ac.uk/materials/working_papers/4546/837-brown--de-cao.pdf). September 2017. **University of Oxford, Department of Economics Discussion Paper Series No.837.** Media coverage: [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment). Submitted
 
 * Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque [“Assortative Mating on Education: A Genetic Assessment”](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment). December 2016. **HCEO WP Series, 2016-034.** 
 
@@ -18,7 +18,7 @@ header:
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Giacomo Gabbuti and Franco Peracchi 
 
 ## Publications
-* De Cao Elisabetta and Clemens Lutz ["Sensitive survey questions: Measuring attitudes regarding female genital cutting through a list experiment"](../DeCaoLutz17OBES_NOV17.pdf) Previous version can be found [here](https://www.csae.ox.ac.uk/workingpapers/pdfs/csae-wps-2015-20.pdf). [Media coverage: RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html) **Forthcoming, Oxford Bulletin of Economics and Statistics**
+* De Cao Elisabetta and Clemens Lutz ["Sensitive survey questions: Measuring attitudes regarding female genital cutting through a list experiment"](../DeCaoLutz17OBES_NOV17.pdf) Previous version can be found [here](https://www.csae.ox.ac.uk/workingpapers/pdfs/csae-wps-2015-20.pdf). [Media coverage: RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html) **Oxford Bulletin of Economics and Statistics, 2018, doi: 10.1111/obes.12228**
 
 * De Cao Elisabetta, Marloes Huis, Samson Jemaneh and Robert Lensink [“Community conversations as a strategy to change harmful traditional practices against women”](http://www.tandfonline.com/doi/full/10.1080/13504851.2016.1161713). **Applied Economics Letters**. 2017, Vol. 24, No. 2, Pages 72-74. 
 
