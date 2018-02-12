@@ -7,7 +7,7 @@ header:
 
 ---
 ## Working papers
-* Daniel Brown and Elisabetta De Cao ["The Impact of Unemployment on Child Maltreatment in the United States"](https://www.economics.ox.ac.uk/materials/working_papers/4546/837-brown--de-cao.pdf). September 2017. **University of Oxford, Department of Economics Discussion Paper Series No.837.** Media coverage: [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment). Submitted
+* Daniel Brown and Elisabetta De Cao ["The Impact of Unemployment on Child Maltreatment in the United States"](https://www.economics.ox.ac.uk/materials/working_papers/4546/837-brown--de-cao.pdf). September 2017. **University of Oxford, Department of Economics Discussion Paper Series No.837.** Media coverage: [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment). _Submitted
 
 * Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque [“Assortative Mating on Education: A Genetic Assessment”](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment). December 2016. **HCEO WP Series, 2016-034.** 
 
