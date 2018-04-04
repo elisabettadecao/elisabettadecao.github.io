@@ -11,7 +11,7 @@ header:
 
 * Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque [“Assortative Mating on Education: A Genetic Assessment”](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment). December 2016. **HCEO WP Series, 2016-034.** 
 
-* "Is health of English babies worse in recession?" with Barry McCormick and Catia Nicodemo (Working paper coming soon) [Media coverage: RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
+* "Is health of English babies worse in recession?" with Barry McCormick and Catia Nicodemo (Working paper coming soon) Media coverage:[RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
 ## Work in progress
 * "The impact of education on female genital cutting" with Giulia La Mattina
