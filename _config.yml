@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Elisabetta De Cao"
 title_separator          : "-"
 name                     : "Elisabetta De Cao"
-description              : "Research Fellow, University of Oxford"
+description              : "Assistant Professor, London School of Economics"
 url                      : # the base hostname & protocol for your site e.g. "https://elisabettadecao.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Elisabetta De Cao"
   avatar           : /assets/images/resized-image.jpg
-  bio              : "Research Fellow in Economics, University of Oxford"
-  location         : "Oxford, UK"
-  email            : "elisabetta.decao@phc.ox.ac.uk"
+  bio              : "Assistant Professor in Health Economics, LSE"
+  location         : "London, UK"
+  email            : "e.de-cao@lse.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
