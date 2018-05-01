@@ -9,7 +9,7 @@ Assistan Professor in Health Economics
 
 London School of Economics, Department of Health Policy
 
-![Ox](assets/images/LSElogo.png =50x)
+<img src="assets/images/LSElogo.png" alt="LSE" style="width: 80px;"/>
 
 # Research Interests
 * Health economics 
