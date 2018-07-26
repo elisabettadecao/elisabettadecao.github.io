@@ -13,8 +13,8 @@ London School of Economics, Department of Health Policy
 
 # Research Interests
 * Health economics 
-* Development economics
 * Family economics
+* Development economics
 * Applied Microeconometrics 
 
 
