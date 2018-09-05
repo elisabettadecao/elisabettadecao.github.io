@@ -9,4 +9,4 @@ I am Assistant Professor in Health Economics at the London School of Economics i
 
 My main research interests are in health, development and family economics. I am particularly interested in global health problems. My current work studies the determinants of children’s health and development, the impact of early life shocks on later outcomes, and violence against women and children. I have also done some work on statistical modelling for infectious diseases and on the evaluation of vaccination programs. To investigate my research questions I use micro-data from across developed (mainly US and UK) and developing countries (mainly Africa).
 
-My CV is [here](../CV_DeCaoMAY18.pdf).
+My CV is [here](../CV_DeCaoSEP18.pdf).
