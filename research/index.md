@@ -13,7 +13,7 @@ header:
 
 * "Is health of English babies worse in recession?" with Barry McCormick and Catia Nicodemo (Working paper coming soon) Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
-## Work in progress
+## Selected work in progress
 * "The impact of education on female genital cutting" with Giulia La Mattina
 * "Measuring attitudes towards domestic violence and child marriage: A List Experiment in Bangladesh" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Giacomo Gabbuti and Franco Peracchi 
