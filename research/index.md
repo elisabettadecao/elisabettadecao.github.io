@@ -9,9 +9,7 @@ header:
 ## Working papers
 * "Does maternal education reduce female genital cutting?" with Giulia La Mattina. _Submitted_
 
-* ["Can genes be used as valid instruments? A marriage market application"](https://www.dropbox.com/s/te77etgdahz1960/genes-marriage-market-final.pdf?dl=0) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. _Submitted_ 
-
-Previous version: [“Assortative Mating on Education: A Genetic Assessment”](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment). **HCEO WP Series, 2016-034.** 
+* ["Can genes be used as valid instruments? A marriage market application"](https://www.dropbox.com/s/te77etgdahz1960/genes-marriage-market-final.pdf?dl=0) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. _Submitted_ Previous version: [**HCEO WP Series, 2016-034.**](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment) 
 
 * Daniel Brown and Elisabetta De Cao ["The Impact of Unemployment on Child Maltreatment in the United States"](https://www.iser.essex.ac.uk/research/publications/working-papers/iser/2018-04). February 2018. **ISER Working Paper Series, No. 2018-04**. Media coverage: [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment). _Under review_
 
