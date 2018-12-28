@@ -7,7 +7,7 @@ header:
 
 ---
 ## Working papers
-* "Does maternal education reduce female genital cutting?" with Giulia La Mattina. _Forthcoming American Economic Review Papers and Proceedings_ 
+* "Does maternal education reduce female genital cutting?" with Giulia La Mattina. _Forthcoming_ **American Economic Review Papers and Proceedings** 
 
 * ["Can genes be used as valid instruments? A marriage market application"](https://www.dropbox.com/s/te77etgdahz1960/genes-marriage-market-final.pdf?dl=0) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. _Submitted_ Previous version: [**HCEO WP Series, 2016-034.**](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment) 
 
