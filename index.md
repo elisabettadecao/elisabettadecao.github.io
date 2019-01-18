@@ -5,7 +5,7 @@ header:
   image: "/assets/images/panorama_web.jpg"
 ---
 
-Assistan Professor in Health Economics
+Assistant Professor in Health Economics
 
 London School of Economics, Department of Health Policy
 
