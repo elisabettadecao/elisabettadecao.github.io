@@ -15,7 +15,7 @@ header:
 
 ## Selected work in progress
 * "Do recessions worsen babies’ health? A tale of siblings, maternal behaviour and selection." with Barry McCormick and Catia Nicodemo. Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html). _In preparation for submission_
-* "Measuring gender attitudes using a list experiment in Bangladesh" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. _In preparation for submission_
+* "Measuring attitudes towards domestic violence and child marriage: List experiments in Bangladesh" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. _In preparation for submission_
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Giacomo Gabbuti and Franco Peracchi. _Work in progress_
 
 ## Publications
