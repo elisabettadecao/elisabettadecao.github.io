@@ -7,7 +7,7 @@ header:
 
 ---
 ## Working papers
-* "Do recessions worsen babies’ health? A tale of siblings, maternal behaviour and selection." with Barry McCormick and Catia Nicodemo. Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html). _Submitted_ 
+* ["Do recessions worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.dropbox.com/h) with Barry McCormick and Catia Nicodemo. Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html). _Submitted_ 
 
 * "Does maternal education reduce female genital cutting?" with Giulia La Mattina. _Forthcoming_ **American Economic Review Papers and Proceedings**. Media coverage: [El Pais](https://elpais.com/elpais/2019/02/04/planeta_futuro/1549293888_415817.html)
 
