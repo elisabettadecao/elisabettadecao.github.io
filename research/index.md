@@ -17,6 +17,7 @@ header:
 
 ## Selected work in progress
 * "Measuring attitudes towards domestic violence and child marriage: List experiments in Bangladesh" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. _In preparation for submission_
+* "Basic Instincts? The Role of Gene-Environment Interactions in Female Fertility Behavior" with Nicola Barban and Marco Francesconi. _Work in progress_
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Giacomo Gabbuti and Franco Peracchi. _Work in progress_
 
 ## Publications
