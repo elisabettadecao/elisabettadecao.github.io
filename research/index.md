@@ -25,7 +25,7 @@ header:
 ## Publications
 * "Does maternal education reduce female genital cutting?" with Giulia La Mattina. _Forthcoming_ **American Economic Review Papers and Proceedings**. Media coverage: [El Pais](https://elpais.com/elpais/2019/02/04/planeta_futuro/1549293888_415817.html)
 
-* De Cao Elisabetta and Clemens Lutz ["Sensitive survey questions: Measuring attitudes regarding female genital cutting through a list experiment"](https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12228). **Oxford Bulletin of Economics and Statistics, 2018, 80 (5): 871–92** Media coverage: [RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html)
+* De Cao Elisabetta and Clemens Lutz ["Sensitive survey questions: Measuring attitudes regarding female genital cutting through a list experiment"](https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12228). **Oxford Bulletin of Economics and Statistics**. 2018, Vol. 80, No. 5, Pages: 871–92. Media coverage: [RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html)
 
 * De Cao Elisabetta, Marloes Huis, Samson Jemaneh and Robert Lensink [“Community conversations as a strategy to change harmful traditional practices against women”](http://www.tandfonline.com/doi/full/10.1080/13504851.2016.1161713). **Applied Economics Letters**. 2017, Vol. 24, No. 2, Pages 72-74. 
 
