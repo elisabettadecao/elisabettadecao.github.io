@@ -11,8 +11,6 @@ header:
 
 * "Measuring attitudes towards domestic violence and child marriage: List experiments in Bangladesh" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. _Submitted_ (Draft available upon request)
 
-* "Does maternal education reduce female genital cutting?" with Giulia La Mattina. _Forthcoming_ **American Economic Review Papers and Proceedings**. Media coverage: [El Pais](https://elpais.com/elpais/2019/02/04/planeta_futuro/1549293888_415817.html)
-
 * ["Can genes be used as valid instruments? A marriage market application"](https://www.dropbox.com/s/te77etgdahz1960/genes-marriage-market-final.pdf?dl=0) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. _Submitted_ Previous version: [**HCEO WP Series, 2016-034.**](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment) 
 
 * Daniel Brown and Elisabetta De Cao ["The Impact of Unemployment on Child Maltreatment in the United States"](https://www.iser.essex.ac.uk/research/publications/working-papers/iser/2018-04). February 2018. **ISER Working Paper Series, No. 2018-04**. Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment). _Under review_
@@ -20,11 +18,13 @@ header:
 ## Selected work in progress
 * "Education and Female Genital Cutting" with Giulia La Mattina. _Work in progress_
 
-* "Basic Instincts? The Role of Gene-Environment Interactions in Female Fertility Behavior" with Nicola Barban and Marco Francesconi. _Work in progress_
+* "Basic Instincts? The Role of Gene-Environment Interactions in Female Fertility Behavior" with Nicola Barban and Marco Francesconi. _Work in progress_ (research supported by the British Academy/Leverhulme Small Research Grant)
 
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Giacomo Gabbuti and Franco Peracchi. _Work in progress_
 
 ## Publications
+* "Does maternal education reduce female genital cutting?" with Giulia La Mattina. _Forthcoming_ **American Economic Review Papers and Proceedings**. Media coverage: [El Pais](https://elpais.com/elpais/2019/02/04/planeta_futuro/1549293888_415817.html)
+
 * De Cao Elisabetta and Clemens Lutz ["Sensitive survey questions: Measuring attitudes regarding female genital cutting through a list experiment"](https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12228). **Oxford Bulletin of Economics and Statistics, 2018, doi: 10.1111/obes.12228** Media coverage: [RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html)
 
 * De Cao Elisabetta, Marloes Huis, Samson Jemaneh and Robert Lensink [“Community conversations as a strategy to change harmful traditional practices against women”](http://www.tandfonline.com/doi/full/10.1080/13504851.2016.1161713). **Applied Economics Letters**. 2017, Vol. 24, No. 2, Pages 72-74. 
