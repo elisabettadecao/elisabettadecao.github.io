@@ -23,7 +23,7 @@ header:
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Giacomo Gabbuti and Franco Peracchi. _Work in progress_
 
 ## Publications
-* "Does maternal education reduce female genital cutting?" with Giulia La Mattina. _Forthcoming_ **American Economic Review Papers and Proceedings**. Media coverage: [El Pais](https://elpais.com/elpais/2019/02/04/planeta_futuro/1549293888_415817.html)
+* De Cao Elisabetta and Giulia La Mattina ["Does maternal education reduce female genital cutting?"](https://www.aeaweb.org/articles?id=10.1257/pandp.20191098). **American Economic Review Papers and Proceedings**. 2019, Vol. 109, Pages 100-104. Media coverage: [El Pais](https://elpais.com/elpais/2019/02/04/planeta_futuro/1549293888_415817.html)
 
 * De Cao Elisabetta and Clemens Lutz ["Sensitive survey questions: Measuring attitudes regarding female genital cutting through a list experiment"](https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12228). **Oxford Bulletin of Economics and Statistics**. 2018, Vol. 80, No. 5, Pages: 871–92. Media coverage: [RES 2015](http://www.res.org.uk/details/mediabrief/7673411/ETHOPIAN-WOMENS-TRUE-ATTITUDES-TOWARDS-FEMALE-GENITAL-MUTILATION-New-survey-evid.html)
 
