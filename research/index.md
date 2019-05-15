@@ -18,7 +18,7 @@ header:
 ## Selected work in progress
 * "Education and Female Genital Cutting" with Giulia La Mattina. _Work in progress_
 
-* "Basic Instincts? Female Fertility and Genes" with Nicola Barban and Marco Francesconi. _Work in progress_ (research supported by the British Academy/Leverhulme Small Research Grant)
+* "Basic Instinct? Female Fertility and Genes" with Nicola Barban and Marco Francesconi. _Work in progress_ (research supported by the British Academy/Leverhulme Small Research Grant)
 
 * "The effect of an earthquake on health and cognitive outcomes later in life" with Giacomo Gabbuti and Franco Peracchi. _Work in progress_
 
