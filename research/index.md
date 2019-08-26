@@ -9,7 +9,7 @@ header:
 ## Working papers
 * ["Do recessions worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.dropbox.com/s/lpv49e0uw4fb6hz/DeCaoMcCormickNicodemoAPRIL19.pdf?dl=0) with Barry McCormick and Catia Nicodemo. Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html). _Submitted_ 
 
-* "Measuring attitudes towards domestic violence and child marriage: List experiments in Bangladesh" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. **Revised-and-resubmit Journal of Population Economics**
+* "Measuring attitudes towards domestic violence and child marriage: List experiments in Bangladesh" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. **_Revised-and-resubmit_ Journal of Population Economics**
 
 * ["Can genes be used as valid instruments? A marriage market application"](https://www.dropbox.com/s/soziz2wqetcazza/PAM_educ_genes_August.pdf?dl=0) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. _Submitted_ Previous version: [**HCEO WP Series, 2016-034.**](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment) 
 
