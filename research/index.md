@@ -18,7 +18,7 @@ header:
   - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
 
 ## Selected work in progress
-* "Basic Instinct? Female Fertility and Genes" with Nicola Barban and Marco Francesconi. _Draft coming soon_ (research supported by the British Academy/Leverhulme Small Research Grant)
+* "Basic Instinct? Female Fertility and Genes" with Nicola Barban and Marco Francesconi. _Draft coming soon_ (research supported by the **British Academy/Leverhulme Small Research Grant**)
 
 * "Education and Female Genital Cutting" with Giulia La Mattina. _Work in progress_
 
