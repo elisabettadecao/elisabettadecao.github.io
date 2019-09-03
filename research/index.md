@@ -11,7 +11,7 @@ header:
 
 * "Measuring attitudes towards domestic violence and child marriage: List experiments in Bangladesh" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. **_Revised-and-resubmit_ Journal of Population Economics**
 
-* ["Assortative Mating on Education: A Genetic Assessment"](http://ftp.iza.org/dp12563.pdf) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. **IZA DP No. 12563** _Submitted_ Previous version: [**HCEO WP Series, 2016-034.**](https://hceconomics.uchicago.edu/research/working-paper/assortative-mating-genetic-assessment) 
+* ["Assortative Mating on Education: A Genetic Assessment"](http://ftp.iza.org/dp12563.pdf) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. **IZA DP No. 12563** _Submitted_  
 
 * Daniel Brown and Elisabetta De Cao ["The Impact of Unemployment on Child Maltreatment in the United States"](https://www.iser.essex.ac.uk/research/publications/working-papers/iser/2018-04). February 2018. **ISER Working Paper Series, No. 2018-04**. Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment). _Under review_
 
