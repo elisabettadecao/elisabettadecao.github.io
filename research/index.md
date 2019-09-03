@@ -8,7 +8,7 @@ header:
 ---
 ## Working papers
 * ["Do recessions worsen babies’ health? A tale of siblings, maternal behaviour and selection."](http://ftp.iza.org/dp12568.pdf) with Barry McCormick and Catia Nicodemo. August 2019. **IZA DP No. 12568** _Submitted_ 
-Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
+  - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
 * "Measuring attitudes towards domestic violence and child marriage: List experiments in Bangladesh" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. **_Revised-and-resubmit_ Journal of Population Economics**
 
