@@ -7,13 +7,12 @@ header:
 
 
 ## Workshop organiser
----
 
 LSE Workshop on “Family Economics, Gender and Old Age Care”, London October 2019
 
 
 ## Recent and Upcoming Seminar and Conference Presentations
----
+
 October 2019 - LSE Workshop on “Family Economics, Gender and Old Age Care”
 
 September 2019 - WOLFE Workshop of Labour and Family Economics, York
