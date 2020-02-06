@@ -12,7 +12,7 @@ header:
   - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
 
 * ["Do recessions worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.dropbox.com/s/xtt9fhla5hgao8h/DeCaoMcCormickNicodemoFEB20.pdf?dl=0) with Barry McCormick and Catia Nicodemo. February 2020. _Submitted_
-  - _Previous version:_ **IZA DP No. 12568**  
+  - _Previous version:_ August 2019. **IZA DP No. 12568**  
   - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
 * "Measuring gender attitudes by using list experiments" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. **_Revised-and-resubmit_ Journal of Population Economics**
