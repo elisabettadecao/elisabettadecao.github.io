@@ -24,7 +24,6 @@ header:
 
 * "Education and Female Genital Cutting" with Giulia La Mattina. _Work in progress_
 
-* "The effect of an earthquake on health and cognitive outcomes later in life" with Giacomo Gabbuti and Franco Peracchi. _Work in progress_
 
 ## Publications
 * De Cao Elisabetta and Giulia La Mattina ["Does maternal education reduce female genital cutting?"](https://www.aeaweb.org/articles?id=10.1257/pandp.20191098). **American Economic Review Papers and Proceedings**. 2019, Vol. 109, Pages 100-104. Media coverage: [El Pais](https://elpais.com/elpais/2019/02/04/planeta_futuro/1549293888_415817.html), [LSEnews](http://www.lse.ac.uk/News/Latest-news-from-LSE/2019/05-May-19/Education-may-not-be-the-solution-to-reducing-female-genital-cutting)
