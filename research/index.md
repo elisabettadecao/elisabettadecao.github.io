@@ -44,7 +44,9 @@ header:
 
 * Mark H. Rozenbaum, Elisabetta De Cao, Tjalke A. Westra and Maarten J. Postma [“Dynamic models for health economic assessments of pertussis vaccines: what goes around comes around”](http://www.tandfonline.com/doi/full/10.1586/erv.12.130). **Expert Review of Vaccines**. 2012, Vol. 11, No. 12, Pages 1415-1428. 
 
-## Policy reports
+## Policy reports / Other
+
+* Elisabetta De Cao and Malte Sandner ["The potential impact of the COVID-19 on child abuse and neglect: The role of childcare and unemployment"](https://voxeu.org/article/potential-impact-covid-19-child-abuse-and-neglect) VOXEU May 2020
 
 * Parts Stichting Gezamenlijke Evaluaties, "MFS-II Evaluations - Joint Evaluations of the Dutch Co-Financing System 2011-2015 - Country Report Ethiopia" Partos. July 2015.
 
