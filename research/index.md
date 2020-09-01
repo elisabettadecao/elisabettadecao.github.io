@@ -15,7 +15,7 @@ header:
   - _Previous version:_ August 2019. **IZA DP No. 12568**  
   - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
-* "Measuring gender attitudes by using list experiments" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. **_Revised-and-resubmit_ Journal of Population Economics**
+* "Measuring gender attitudes using list experiments" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. **_Revised-and-resubmit_ Journal of Population Economics**
 
 * ["Assortative Mating on Education: A Genetic Assessment"](http://ftp.iza.org/dp12563.pdf) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. August 2019. **IZA DP No. 12563** _Submitted_  
 
