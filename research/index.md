@@ -17,7 +17,7 @@ header:
 
 * ["Assortative Mating on Education: A Genetic Assessment"](http://ftp.iza.org/dp12563.pdf) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. August 2019. **IZA DP No. 12563** _Submitted_  
 
-* ["Measuring gender attitudes using list experiments"](https://www.iza.org/publications/dp13653.pdf) with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. **_Accepted at_ Journal of Population Economics**
+* ["Measuring gender attitudes using list experiments"](https://www.iza.org/publications/dp/13653/measuring-gender-attitudes-using-list-experiments) with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. **_Accepted at_ Journal of Population Economics**
 
 ## Selected work in progress
 * "Basic Instinct? Female Fertility and Genes" with Nicola Barban and Marco Francesconi. _Draft coming soon_ (research supported by the **British Academy/Leverhulme Small Research Grant**)
