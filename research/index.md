@@ -17,6 +17,8 @@ header:
 
 * ["Assortative Mating on Education: A Genetic Assessment"](http://ftp.iza.org/dp12563.pdf) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. August 2019. **IZA DP No. 12563** _Submitted_  
 
+* "Measuring gender attitudes using list experiments" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. **_Accepted at_ Journal of Population Economics**
+
 ## Selected work in progress
 * "Basic Instinct? Female Fertility and Genes" with Nicola Barban and Marco Francesconi. _Draft coming soon_ (research supported by the **British Academy/Leverhulme Small Research Grant**)
 
@@ -24,7 +26,6 @@ header:
 
 
 ## Publications
-* "Measuring gender attitudes using list experiments" with Niaz Asadullah, Fathema Zahura Khatun, and Zahra Siddique. **_Accepted at_ Journal of Population Economics**
 
 * De Cao Elisabetta and Giulia La Mattina ["Does maternal education reduce female genital cutting?"](https://www.aeaweb.org/articles?id=10.1257/pandp.20191098). **American Economic Review Papers and Proceedings**. 2019, Vol. 109, Pages 100-104. Media coverage: [El Pais](https://elpais.com/elpais/2019/02/04/planeta_futuro/1549293888_415817.html), [LSEnews](http://www.lse.ac.uk/News/Latest-news-from-LSE/2019/05-May-19/Education-may-not-be-the-solution-to-reducing-female-genital-cutting)
 
