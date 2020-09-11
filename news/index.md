@@ -13,7 +13,7 @@ LSE Workshop on “Family Economics, Gender and Old Age Care”, London October 
 
 ## Recent and Upcoming Seminar and Conference Presentations
 
-October 2020 - Alicante, Department of Economics, "Workshop on Applied micro/health and gender" (online)
+October 2020 - University of Alicante, Department of Economics, "Workshop on Applied micro/health and gender" (online)
 
 June 2020 - Royal Holloway, Department of Economics (online)
 
