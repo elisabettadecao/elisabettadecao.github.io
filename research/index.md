@@ -25,7 +25,7 @@ header:
 
 ## Publications
 
-* Niaz Asadullah, Elisabetta De Cao, Fathema Zahura Khatun, and Zahra Siddique ["Measuring gender attitudes using list experiments"](https://link.springer.com/article/10.1007/s00148-020-00805-2?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20201007) 2020, DOI 10.1007/s00148-020-00805-2. **Journal of Population Economics**
+* Niaz Asadullah, Elisabetta De Cao, Fathema Zahura Khatun, and Zahra Siddique ["Measuring gender attitudes using list experiments"](https://link.springer.com/article/10.1007/s00148-020-00805-2?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20201007). **Journal of Population Economics**. 2020, DOI 10.1007/s00148-020-00805-2. 
 
 * De Cao Elisabetta and Giulia La Mattina ["Does maternal education reduce female genital cutting?"](https://www.aeaweb.org/articles?id=10.1257/pandp.20191098). **American Economic Review Papers and Proceedings**. 2019, Vol. 109, Pages 100-104. Media coverage: [El Pais](https://elpais.com/elpais/2019/02/04/planeta_futuro/1549293888_415817.html), [LSEnews](http://www.lse.ac.uk/News/Latest-news-from-LSE/2019/05-May-19/Education-may-not-be-the-solution-to-reducing-female-genital-cutting)
 
