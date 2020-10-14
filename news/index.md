@@ -6,12 +6,14 @@ header:
 ---
 
 
-## Workshop organiser
+## Workshop co-organiser
 
 LSE Workshop on “Family Economics, Gender and Old Age Care”, London October 2019
 
 
 ## Recent and Upcoming Seminar and Conference Presentations
+
+December 2020 - Centre for Economic Demography Lund University (online)
 
 October 2020 - University of Alicante, Department of Economics, "Workshop on Applied micro/health and gender" (online)
 
