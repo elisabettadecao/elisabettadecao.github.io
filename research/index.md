@@ -15,7 +15,7 @@ header:
   - _Previous version:_ August 2019. **IZA DP No. 12568**  
   - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
-* ["Assortative Mating on Education: A Genetic Assessment"](http://ftp.iza.org/dp12563.pdf) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. August 2019. **IZA DP No. 12563** **_Revised-and-resubmit_ Labour Economics**  
+* ["Assortative Mating on Education: A Genetic Assessment"](http://ftp.iza.org/dp12563.pdf) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. August 2019. IZA DP No. 12563. **_Revised-and-resubmit_ Labour Economics**  
 
 ## Selected work in progress
 * "Basic Instinct? Female Fertility and Genes" with Nicola Barban and Marco Francesconi. _Draft coming soon_ (research supported by the **British Academy/Leverhulme Small Research Grant**)
