@@ -11,6 +11,8 @@ London School of Economics, Department of Health Policy
 
 <img src="assets/images/LSElogo.png" alt="LSE" style="width: 80px;"/>
 
+IZA Research Fellow
+
 # Research Interests
 * Health economics 
 * Family economics
