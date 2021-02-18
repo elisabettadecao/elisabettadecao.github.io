@@ -11,7 +11,7 @@ header:
   - _Previous version:_ "The Impact of Unemployment on Child Maltreatment in the United States". February 2018. **ISER Working Paper Series, No. 2018-04**
   - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
 
-* ["Do recessions worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.dropbox.com/s/y6xhbvqbe2spyf0/DeCaoMcCormickNicodemoNOV20.pdf?dl=0) with Barry McCormick and Catia Nicodemo. November 2020. **_Revised-and-resubmit_ Journal of Health Economics**
+* ["Do recessions worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.dropbox.com/s/y6xhbvqbe2spyf0/DeCaoMcCormickNicodemoNOV20.pdf?dl=0) with Barry McCormick and Catia Nicodemo. November 2020. **_2nd Revised-and-resubmit_ Journal of Health Economics**
   - _Previous version:_ August 2019. **IZA DP No. 12568**  
   - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
@@ -25,7 +25,7 @@ header:
 
 ## Publications
 
-* Niaz Asadullah, Elisabetta De Cao, Fathema Zahura Khatun, and Zahra Siddique ["Measuring gender attitudes using list experiments"](https://link.springer.com/article/10.1007/s00148-020-00805-2?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20201007). **Journal of Population Economics**. 2020, DOI 10.1007/s00148-020-00805-2. 
+* Niaz Asadullah, Elisabetta De Cao, Fathema Zahura Khatun, and Zahra Siddique ["Measuring gender attitudes using list experiments"](https://link.springer.com/article/10.1007/s00148-020-00805-2?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20201007). **Journal of Population Economics**. 2021, Vol. 34, Pages 367-400. 
 
 * De Cao Elisabetta and Giulia La Mattina ["Does maternal education reduce female genital cutting?"](https://www.aeaweb.org/articles?id=10.1257/pandp.20191098). **American Economic Review Papers and Proceedings**. 2019, Vol. 109, Pages 100-104. Media coverage: [El Pais](https://elpais.com/elpais/2019/02/04/planeta_futuro/1549293888_415817.html), [LSEnews](http://www.lse.ac.uk/News/Latest-news-from-LSE/2019/05-May-19/Education-may-not-be-the-solution-to-reducing-female-genital-cutting)
 
