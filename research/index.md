@@ -15,8 +15,6 @@ header:
   - _Previous version:_ August 2019. **IZA DP No. 12568**  
   - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
-* ["Assortative Mating on Education: A Genetic Assessment"](http://ftp.iza.org/dp12563.pdf) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. August 2019. IZA DP No. 12563. **_Revised-and-resubmit_ Labour Economics**  
-
 ## Selected work in progress
 * "Basic Instinct? Female Fertility and Genes" with Nicola Barban and Marco Francesconi. _Draft coming soon_ (research supported by the **British Academy/Leverhulme Small Research Grant**)
 
@@ -24,6 +22,8 @@ header:
 
 
 ## Publications
+
+* ["Assortative Mating on Education: A Genetic Assessment"](http://ftp.iza.org/dp12563.pdf) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. August 2019. IZA DP No. 12563. **_Accepted_ Labour Economics**  
 
 * Niaz Asadullah, Elisabetta De Cao, Fathema Zahura Khatun, and Zahra Siddique ["Measuring gender attitudes using list experiments"](https://link.springer.com/article/10.1007/s00148-020-00805-2?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20201007). **Journal of Population Economics**. 2021, Vol. 34, Pages 367-400. 
 
