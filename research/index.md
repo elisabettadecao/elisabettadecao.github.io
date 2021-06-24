@@ -23,7 +23,7 @@ header:
 
 ## Publications
 
-* ["Assortative Mating on Education: A Genetic Assessment"](https://drive.google.com/file/d/14XC3Sp_nryHAUwk2OYyegrs9kdkTQWVN/edit) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. August 2019. IZA DP No. 12563. **_Forthcoming_ Labour Economics**  
+* ["The effect of education on spousal education: a genetic approach"](https://drive.google.com/file/d/14XC3Sp_nryHAUwk2OYyegrs9kdkTQWVN/edit) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. August 2019. IZA DP No. 12563. **_Forthcoming_ Labour Economics**  
 
 * Niaz Asadullah, Elisabetta De Cao, Fathema Zahura Khatun, and Zahra Siddique ["Measuring gender attitudes using list experiments"](https://link.springer.com/article/10.1007/s00148-020-00805-2?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20201007). **Journal of Population Economics**. 2021, Vol. 34, Pages 367-400. 
 
