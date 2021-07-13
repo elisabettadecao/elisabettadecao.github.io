@@ -16,9 +16,11 @@ header:
   - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
 ## Selected work in progress
-* "Basic Instinct? Female Fertility and Genes" with Nicola Barban and Marco Francesconi. _Draft coming soon_ (research supported by the **British Academy/Leverhulme Small Research Grant**)
+* "Gene-Environment Effects on Female Fertility" with Nicola Barban and Marco Francesconi. _Draft coming soon_ (research supported by the **British Academy/Leverhulme Small Research Grant**)
 
-* "Education and Female Genital Cutting" with Giulia La Mattina. _Work in progress_
+* "Parenting in Developing Countries" with Alberto Ciancio, Giulia La Mattina, and Luca Pesando. _Work in progress_
+
+* "Air Pollution and Health" with Nicola Barban, Gabriella Conti, and Sefi Roth. _Work in progress_
 
 
 ## Publications
