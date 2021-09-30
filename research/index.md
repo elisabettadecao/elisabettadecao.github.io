@@ -7,6 +7,8 @@ header:
 
 ---
 ## Working papers
+* "Gene-Environment Effects on Female Fertility" with Nicola Barban and Marco Francesconi. _Submitted_ (research supported by the **British Academy/Leverhulme Small Research Grant**)
+
 * ["Child Maltreatment, Unemployment, and Safety Nets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543987) with Daniel Brown. January 2020. _Under Review_
   - _Previous version:_ "The Impact of Unemployment on Child Maltreatment in the United States". February 2018. **ISER Working Paper Series, No. 2018-04**
   - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
@@ -16,8 +18,6 @@ header:
   - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
 ## Selected work in progress
-* "Gene-Environment Effects on Female Fertility" with Nicola Barban and Marco Francesconi. _Draft coming soon_ (research supported by the **British Academy/Leverhulme Small Research Grant**)
-
 * "Parenting in Developing Countries" with Alberto Ciancio, Giulia La Mattina, and Luca Pesando. _Work in progress_
 
 * "Air Pollution and Health" with Nicola Barban, Gabriella Conti, and Sefi Roth. _Work in progress_
@@ -25,7 +25,7 @@ header:
 
 ## Publications
 
-* ["The effect of education on spousal education: A genetic approach"](https://drive.google.com/file/d/14XC3Sp_nryHAUwk2OYyegrs9kdkTQWVN/edit) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. **_Forthcoming_ Labour Economics**  
+* ["The effect of education on spousal education: A genetic approach"](https://drive.google.com/file/d/14XC3Sp_nryHAUwk2OYyegrs9kdkTQWVN/edit) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. **Labour Economics**. 2021, Vol. 71, 102023.  
 
 * Niaz Asadullah, Elisabetta De Cao, Fathema Zahura Khatun, and Zahra Siddique ["Measuring gender attitudes using list experiments"](https://link.springer.com/article/10.1007/s00148-020-00805-2?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20201007). **Journal of Population Economics**. 2021, Vol. 34, Pages 367-400. 
 
