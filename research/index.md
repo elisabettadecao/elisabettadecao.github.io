@@ -7,7 +7,8 @@ header:
 
 ---
 ## Working papers
-* "Gene-Environment Effects on Female Fertility" with Nicola Barban and Marco Francesconi. _Submitted_ (research supported by the **British Academy/Leverhulme Small Research Grant**)
+* "Gene-Environment Effects on Female Fertility" with Nicola Barban and Marco Francesconi. _Submitted_ 
+  - Research supported by the _British Academy/Leverhulme Small Research Grant_
 
 * ["Child Maltreatment, Unemployment, and Safety Nets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543987) with Daniel Brown. January 2020. _Under Review_
   - _Previous version:_ "The Impact of Unemployment on Child Maltreatment in the United States". February 2018. **ISER Working Paper Series, No. 2018-04**
