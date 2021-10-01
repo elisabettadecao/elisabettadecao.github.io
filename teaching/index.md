@@ -11,3 +11,5 @@ header:
 ### [HP426 - Applied Health Econometrics](http://www.lse.ac.uk/resources/calendar/courseGuides/HP/2018_HP426.htm)
 
 ### [HP4D5E - Research Design for Evaluating Health Programs and Policies](http://www.lse.ac.uk/resources/calendar/courseGuides/HP/2018_HP4D5E.htm)
+
+### [HP4F2E - Quasi-Experimental Evaluation of Healthcare Programs and Policies](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/HP/2020_HP4F2E.htm)
