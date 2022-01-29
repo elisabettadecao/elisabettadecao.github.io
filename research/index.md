@@ -7,7 +7,7 @@ header:
 
 ---
 ## Working papers
-* ["Gene-Environment Effects on Female Fertility"](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16603) with Nicola Barban and Marco Francesconi. _Submitted_ 
+* ["Gene-Environment Effects on Female Fertility"](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16603) with Nicola Barban and Marco Francesconi. October 2021. CEPR Working Paper DP16603. _Submitted_ 
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
 
 * ["Child Maltreatment, Unemployment, and Safety Nets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543987) with Daniel Brown. January 2020. _Under Review_
