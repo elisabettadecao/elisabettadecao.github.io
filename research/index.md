@@ -21,7 +21,7 @@ header:
 ## Selected work in progress
 * "Parenting in Developing Countries" with Alberto Ciancio, Giulia La Mattina, and Luca Pesando. _Work in progress_
 
-* "Air Pollution and Health" with Nicola Barban, Gabriella Conti, and Sefi Roth. _Work in progress_
+* "Air Pollution and Health" with Nicola Barban, Gabriella Conti, Edward Pinchbeck, and Sefi Roth. _Work in progress_
 
 
 ## Publications
