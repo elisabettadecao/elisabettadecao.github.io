@@ -33,5 +33,7 @@ April 2021 - RES conference (online)
 
 ## Workshop co-organiser
 
+Workshop on the Economics of Family and Gender, University of Bologna, Bologna, 24 March 2022
+
 LSE Workshop on “Family Economics, Gender and Old Age Care”, London October 2019
 
