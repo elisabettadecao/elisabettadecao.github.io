@@ -7,11 +7,13 @@ header:
 
 ## Recent Grants/Fellowships
 
-STICERD Research Grant, June 2021 - July 2022 (£4,965)
+STICERD Research Grant, August 2021 - July 2022 (£4,965)
 
 Co-I BA/Leverhulme Small Research Grant, January 2019 - April 2022 (£9,978.40)
 
 ## Recent and Upcoming Seminar and Conference Presentations
+
+January 2022 - Fourth LSE Historical Economic Demography Workshop (online)
 
 September 2021 - EALE conference (online)
 
