@@ -14,10 +14,6 @@ header:
   - _Previous version:_ "The Impact of Unemployment on Child Maltreatment in the United States". February 2018. ISER Working Paper Series, No. 2018-04.
   - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
 
-* ["Does unemployment worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.dropbox.com/s/kju6vb77y4vtpmd/DeCaoMcCormickNicodemoJAN2022.pdf?dl=0) with Barry McCormick and Catia Nicodemo. January 2022. **_Resubmitted_ Journal of Health Economics**
-  - _Previous version:_ August 2019. **IZA DP No. 12568**  
-  - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
-
 ## Selected work in progress
 * "Parenting in Developing Countries" with Alberto Ciancio, Giulia La Mattina, and Luca Pesando. _Work in progress_
 
@@ -25,6 +21,9 @@ header:
 
 
 ## Publications
+
+* ["Does unemployment worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.dropbox.com/s/kju6vb77y4vtpmd/DeCaoMcCormickNicodemoJAN2022.pdf?dl=0) with Barry McCormick and Catia Nicodemo. January 2022. **_Accepted_ Journal of Health Economics**
+  - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
 * ["The effect of education on spousal education: A genetic approach"](https://drive.google.com/file/d/14XC3Sp_nryHAUwk2OYyegrs9kdkTQWVN/edit) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. **Labour Economics**. 2021, Vol. 71, 102023.  
 
