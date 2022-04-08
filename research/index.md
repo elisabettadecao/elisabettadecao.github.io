@@ -22,10 +22,10 @@ header:
 
 ## Publications
 
-* ["Does unemployment worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.dropbox.com/s/kju6vb77y4vtpmd/DeCaoMcCormickNicodemoJAN2022.pdf?dl=0) with Barry McCormick and Catia Nicodemo. January 2022. **_Accepted at_ Journal of Health Economics**
+* ["Does unemployment worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.dropbox.com/s/kju6vb77y4vtpmd/DeCaoMcCormickNicodemoJAN2022.pdf?dl=0) with Barry McCormick and Catia Nicodemo. **Journal of Health Economics**. 2022, Vol. 83, 102601.
   - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
-* ["The effect of education on spousal education: A genetic approach"](https://drive.google.com/file/d/14XC3Sp_nryHAUwk2OYyegrs9kdkTQWVN/edit) with Nicola Barban, Elisabetta De Cao, Sonia Oreffice, and Climent Quintana-Domeque. **Labour Economics**. 2021, Vol. 71, 102023.  
+* ["The effect of education on spousal education: A genetic approach"](https://drive.google.com/file/d/14XC3Sp_nryHAUwk2OYyegrs9kdkTQWVN/edit) with Nicola Barban, Sonia Oreffice, and Climent Quintana-Domeque. **Labour Economics**. 2021, Vol. 71, 102023.  
 
 * Niaz Asadullah, Elisabetta De Cao, Fathema Zahura Khatun, and Zahra Siddique ["Measuring gender attitudes using list experiments"](https://link.springer.com/article/10.1007/s00148-020-00805-2?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20201007). **Journal of Population Economics**. 2021, Vol. 34, Pages 367-400. 
 
