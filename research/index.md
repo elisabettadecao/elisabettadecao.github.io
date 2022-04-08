@@ -22,7 +22,7 @@ header:
 
 ## Publications
 
-* ["Does unemployment worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.dropbox.com/s/kju6vb77y4vtpmd/DeCaoMcCormickNicodemoJAN2022.pdf?dl=0) with Barry McCormick and Catia Nicodemo. **Journal of Health Economics**. 2022, Vol. 83, 102601.
+* ["Does unemployment worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.sciencedirect.com/science/article/abs/pii/S0167629622000212) with Barry McCormick and Catia Nicodemo. **Journal of Health Economics**. 2022, Vol. 83, 102601.
   - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
 * ["The effect of education on spousal education: A genetic approach"](https://drive.google.com/file/d/14XC3Sp_nryHAUwk2OYyegrs9kdkTQWVN/edit) with Nicola Barban, Sonia Oreffice, and Climent Quintana-Domeque. **Labour Economics**. 2021, Vol. 71, 102023.  
