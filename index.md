@@ -22,7 +22,9 @@ University of Bologna, Department of Economics
 
 # Contact Details
 Dipartimento di Scienze Economiche 
+
 Via San Giacomo 3, Bologna 
+
 E-mail: elisabetta.decao@unibo.it (or e.de-cao@lse.ac.uk)
 
 
