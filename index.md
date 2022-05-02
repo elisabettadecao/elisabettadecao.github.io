@@ -5,11 +5,11 @@ header:
   image: "/assets/images/panorama_web.jpg"
 ---
 
-Assistant Professor in Health Economics
+Assistant Professor in Economics
 
-London School of Economics, Department of Health Policy
+University of Bologna, Department of Economics
 
-<img src="assets/images/LSElogo.png" alt="LSE" style="width: 80px;"/>
+[LSE Visiting Fellow](https://www.lse.ac.uk/health-policy/people/dr-elisabetta-de-cao)
 
 [IZA Research Fellow](https://www.iza.org/person/6099/elisabetta-de-cao)
 
@@ -21,10 +21,9 @@ London School of Economics, Department of Health Policy
 
 
 # Contact Details
-Department of Health Policy, (Room COW.3.06)
-Houghton Street, WC2A 2AE, London, England, UK.
-Phone: (+44)  (0)20 7955 6734
-E-mail: E.De-Cao@lse.ac.uk
+Dipartimento di Scienze Economiche 
+Via San Giacomo 3, Bologna 
+E-mail: elisabetta.decao@unibo.it (or e.de-cao@lse.ac.uk)
 
 
 
