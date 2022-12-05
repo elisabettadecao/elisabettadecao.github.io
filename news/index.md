@@ -12,6 +12,7 @@ STICERD Research Grant, August 2021 - July 2022 (£4,965)
 Co-I BA/Leverhulme Small Research Grant, January 2019 - April 2022 (£9,978.40)
 
 ## Recent and Upcoming Seminar and Conference Presentations
+November 2022 - UCL Global Health (online)
 
 January 2022 - Fourth LSE Historical Economic Demography Workshop (online)
 
