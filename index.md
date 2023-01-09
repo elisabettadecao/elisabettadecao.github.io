@@ -5,7 +5,7 @@ header:
   image: "/assets/images/panorama_web.jpg"
 ---
 
-Assistant Professor in Economics
+Senior Assistant Professor in Economics
 
 University of Bologna, Department of Economics
 
