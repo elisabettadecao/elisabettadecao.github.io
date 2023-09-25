@@ -8,6 +8,7 @@ header:
 ---
 ## Working papers
 * ["Educational Assortative Mating and Harsh Parenting in Sub-Saharan Africa"](https://docs.iza.org/dp16466.pdf) with Luca Pesando, Giulia La Mattina, and Alberto Ciancio. September 2023. IZA Discussion Paper No. 16466. _Submitted_
+  - Research supported by the _STICERD Research Grant_
   
 * ["Gene-Environment Effects on Female Fertility"](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16603) with Nicola Barban and Marco Francesconi. October 2021. CEPR Working Paper DP16603. _Under review_ 
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
