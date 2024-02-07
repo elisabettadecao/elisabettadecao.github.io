@@ -7,15 +7,15 @@ header:
 
 ---
 ## Working papers
+*  ["Unveiling Shadows: The Impact of Unemployment on Child Maltreatment"](https://www.dropbox.com/scl/fi/bckg7ohq7alq9pwammbfv/BrownDeCao_ChildMaltreatment2024.pdf?rlkey=sxqksqa6w3i2e26bvwtxkv0v4&dl=0) with Daniel Brown. February 2024. _NEW VERSION_
+  - _Previous version:_ "Child Maltreatment, Unemployment, and Safety Nets". January 2020. SSRN Working Paper Series, No. 3543987.
+  - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
+
 * ["Educational Assortative Mating and Harsh Parenting in Sub-Saharan Africa"](https://docs.iza.org/dp16466.pdf) with Luca Pesando, Giulia La Mattina, and Alberto Ciancio. September 2023. IZA Discussion Paper No. 16466. _Submitted_
   - Research supported by the _STICERD Research Grant_
   
 * ["Gene-Environment Effects on Female Fertility"](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16603) with Nicola Barban and Marco Francesconi. October 2021. CEPR Working Paper DP16603. _Under review_ 
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
-
-* ["Child Maltreatment, Unemployment, and Safety Nets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543987) with Daniel Brown. January 2020. _Under Review_
-  - _Previous version:_ "The Impact of Unemployment on Child Maltreatment in the United States". February 2018. ISER Working Paper Series, No. 2018-04.
-  - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
 
 ## Selected work in progress
 * "Education, genes and fertility" with Selin Köksal, Nicola Barban, and Marco Francesconi.
