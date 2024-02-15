@@ -7,7 +7,7 @@ header:
 
 ---
 ## Working papers
-* ["Unveiling Shadows: The Impact of Unemployment on Child Maltreatment"](https://www.dropbox.com/scl/fi/bckg7ohq7alq9pwammbfv/BrownDeCao_ChildMaltreatment2024.pdf?rlkey=sxqksqa6w3i2e26bvwtxkv0v4&dl=0) with Daniel Brown. February 2024. _Submitted_
+* ["Unveiling Shadows: The Impact of Unemployment on Child Maltreatment"](https://docs.iza.org/dp16799.pdf) with Daniel Brown. February 2024. _Submitted_
   - Previous version: "Child Maltreatment, Unemployment, and Safety Nets". January 2020. SSRN Working Paper Series, No. 3543987.
   - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
 
