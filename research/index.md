@@ -18,7 +18,7 @@ header:
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
 
 ## Selected work in progress
-* "Education, genes and fertility" with Selin Köksal, Nicola Barban, and Marco Francesconi.
+* "Educational attainment and fertility: Do genetic endowments matter?" with Selin Köksal, Nicola Barban, and Marco Francesconi.
 
 * "The Intergenerational Impact of Gestational Exposure to the National Health Service in the UK" with Genevieve Jeffrey and Alistair McGuire. 
   
