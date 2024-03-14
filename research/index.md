@@ -11,7 +11,7 @@ header:
   - Previous version: "Child Maltreatment, Unemployment, and Safety Nets". January 2020. SSRN Working Paper Series, No. 3543987.
   - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
 
-* ["Educational Assortative Mating and Harsh Parenting in Sub-Saharan Africa"](https://docs.iza.org/dp16466.pdf) with Luca Pesando, Giulia La Mattina, and Alberto Ciancio. September 2023. IZA Discussion Paper No. 16466. _Submitted_
+* ["Educational Assortative Mating and Harsh Parenting in Sub-Saharan Africa"](https://docs.iza.org/dp16466.pdf) with Luca Pesando, Giulia La Mattina, and Alberto Ciancio. September 2023. IZA Discussion Paper No. 16466. _R&R Social Science & Medicine_
   - Research supported by the _STICERD Research Grant_
   
 * ["Gene-Environment Effects on Female Fertility"](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16603) with Nicola Barban and Marco Francesconi. October 2021. CEPR Working Paper DP16603. _Under review_ 
