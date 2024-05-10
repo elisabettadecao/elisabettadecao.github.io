@@ -28,7 +28,7 @@ header:
 
 ## Publications
 
-* ["Status (In)Consistency in Education and Violent Parenting Practices Towards Children"], **Social Science & Medicine**, https://doi.org/10.1016/j.socscimed.2024.116954.  
+* ["Status (In)Consistency in Education and Violent Parenting Practices Towards Children"](https://doi.org/10.1016/j.socscimed.2024.116954), with Luca Pesando, Giulia La Mattina and Alberto Ciancio. **Social Science & Medicine**, 2024, https://doi.org/10.1016/j.socscimed.2024.116954.  
   - ["IZA version"](https://docs.iza.org/dp16466.pdf)
   - Research supported by the _STICERD Research Grant_
   
