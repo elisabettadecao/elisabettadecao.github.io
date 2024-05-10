@@ -28,7 +28,8 @@ header:
 
 ## Publications
 
-* ["Educational Assortative Mating and Harsh Parenting in Sub-Saharan Africa"](https://docs.iza.org/dp16466.pdf) with Luca Pesando, Giulia La Mattina, and Alberto Ciancio. September 2023. IZA Discussion Paper No. 16466. **Conditionally Accepted Social Science & Medicine**
+* ["Status (In)Consistency in Education and Violent Parenting Practices Towards Children"], **Social Science & Medicine**, https://doi.org/10.1016/j.socscimed.2024.116954.  
+  - ["IZA version"](https://docs.iza.org/dp16466.pdf)
   - Research supported by the _STICERD Research Grant_
   
 * ["Does unemployment worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.sciencedirect.com/science/article/abs/pii/S0167629622000212) with Barry McCormick and Catia Nicodemo. **Journal of Health Economics**. 2022, Vol. 83, 102601.
