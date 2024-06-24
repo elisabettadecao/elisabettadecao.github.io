@@ -5,7 +5,7 @@ header:
   image: "/assets/images/panorama_web.jpg"
 ---
 
-Senior Assistant Professor in Economics
+Associate Professor in Economics
 
 University of Bologna, Department of Economics
 
@@ -23,7 +23,7 @@ University of Bologna, Department of Economics
 # Contact Details
 Dipartimento di Scienze Economiche 
 
-Via San Giacomo 3, Bologna 
+Piazza Scaravilli 2, Bologna 
 
 E-mail: elisabetta.decao@unibo.it (or e.de-cao@lse.ac.uk)
 
