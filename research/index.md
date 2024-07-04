@@ -35,7 +35,7 @@ header:
 * ["Does unemployment worsen babies’ health? A tale of siblings, maternal behaviour and selection."](https://www.sciencedirect.com/science/article/abs/pii/S0167629622000212) with Barry McCormick and Catia Nicodemo. **Journal of Health Economics**. 2022, Vol. 83, 102601.
   - Media coverage: [RES 2018](http://www.res.org.uk/details/mediabrief/10921615/RECESSIONS-HARM-HEALTH-OF-NEWBORNS-Evidence-from-England.html)
 
-* ["The effect of education on spousal education: A genetic approach"](https://drive.google.com/file/d/14XC3Sp_nryHAUwk2OYyegrs9kdkTQWVN/edit) with Nicola Barban, Sonia Oreffice, and Climent Quintana-Domeque. **Labour Economics**. 2021, Vol. 71, 102023.  
+* ["The effect of education on spousal education: A genetic approach"](https://www.sciencedirect.com/science/article/pii/S0927537121000580) with Nicola Barban, Sonia Oreffice, and Climent Quintana-Domeque. **Labour Economics**. 2021, Vol. 71, 102023.  
 
 * Niaz Asadullah, Elisabetta De Cao, Fathema Zahura Khatun, and Zahra Siddique ["Measuring gender attitudes using list experiments"](https://link.springer.com/article/10.1007/s00148-020-00805-2?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20201007). **Journal of Population Economics**. 2021, Vol. 34, Pages 367-400. 
 
