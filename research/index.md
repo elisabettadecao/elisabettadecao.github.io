@@ -15,12 +15,10 @@ header:
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
 
 ## Selected work in progress
-* "Educational attainment and fertility: Do genetic endowments matter?" with Selin Köksal, Nicola Barban, and Marco Francesconi.
+* "Education and teenage births  in the UK: A research note on the role of genetic propensities" with Selin Köksal, Nicola Barban, and Marco Francesconi.
 
-* "The Intergenerational Impact of Gestational Exposure to the National Health Service in the UK" with Genevieve Jeffrey and Alistair McGuire. 
+* "The intergenerational impact of gestational exposure to the National Health Service in the UK" with Genevieve Jeffrey and Alistair McGuire. 
   
-* "Air Pollution and Health" with Gabriella Conti, Edward Pinchbeck, and Sefi Roth. 
-
 * "Metrics for Health Policy" with Joan Costa-i-Font and Ilias Kyriopoulos.
 
 * "The impact of the family planning program on fertility and mortality" with Nicola Barban and Marco Francesconi.
