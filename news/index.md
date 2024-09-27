@@ -14,6 +14,10 @@ STICERD Research Grant, August 2021 - July 2022 (£4,965)
 Co-I BA/Leverhulme Small Research Grant, January 2019 - April 2022 (£9,978.40)
 
 ## Recent and Upcoming Seminar and Conference Presentations
+October 2024 - Workshop Educational Interventions and Inequalities in Montepulciano
+
+October 2024 - AIEL Naples
+
 June 2023 - NBER Workshop Fertility and Declining Population Growth in High-Income Countries
 
 November 2022 - UCL Global Health (online)
