@@ -23,6 +23,8 @@ header:
 
 * "The impact of the family planning program on fertility and mortality" with Nicola Barban and Marco Francesconi.
 
+* "Understanding key barriers to Female Labor Force Participation: Sexual Harassment in the Workplace" with Niaz Asadullah and Elena Pisanelli
+
 
 ## Publications
 
