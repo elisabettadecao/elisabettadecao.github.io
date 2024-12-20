@@ -7,6 +7,8 @@ header:
 
 ## Recent Grants/Fellowships
 
+ERC Consolidator, 2025-2030 (€1,992,656)
+
 PRIN, December 2023 - December 2025 (€284,876)
 
 STICERD Research Grant, August 2021 - July 2022 (£4,965)
