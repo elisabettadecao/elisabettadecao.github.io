@@ -15,6 +15,12 @@ header:
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
 
 ## Selected work in progress
+* "Spare the Rod? Christian Missions and the Roots of Harsh Parenting" with Alberto Ciancio, Giulia La Mattina, and Luca Maria Pesando.
+
+* "Temperature and Harsh Parenting" with Philipp Anthony Naß, and Filippo Pavanello
+
+* "Tracing the Genetic Footprints of the UK National Health Service" with Nicolau Martin-Bassols, Pietro Biroli, Massimo Anelli, and Silvia Mendolia 
+
 * "Education and teenage births  in the UK: A research note on the role of genetic propensities" with Selin Köksal, Nicola Barban, and Marco Francesconi.
 
 * "The intergenerational impact of gestational exposure to the National Health Service in the UK" with Genevieve Jeffrey and Alistair McGuire. 
