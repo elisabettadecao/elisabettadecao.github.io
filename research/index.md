@@ -32,6 +32,8 @@ header:
 
 * "The impact of the family planning program on fertility and mortality" with Nicola Barban and Marco Francesconi.
 
+* "The impact of direct and indirect exposure to child maltreatment and social care on educational and  labour market outcomes" with Dan Anderberg, Arnaud Chevalier, and Greta Morando 
+
 * "Understanding key barriers to Female Labor Force Participation: Sexual Harassment in the Workplace" with Niaz Asadullah and Elena Pisanelli
 
 
