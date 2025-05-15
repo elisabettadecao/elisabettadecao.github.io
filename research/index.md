@@ -7,20 +7,21 @@ header:
 
 ---
 ## Working papers
-* ["Fertility, Genes, and the Sexual Revolution"](https://www.dropbox.com/scl/fi/v58fb78vwgo43qb4w73wu/BarbanDeCaoFrancesconi_march25.pdf?rlkey=bivzsrvg2mj15c1i00s5567ty&dl=0) with Nicola Barban and Marco Francesconi. March 2025.  
+* ["Fertility, Genes, and the Sexual Revolution"](https://www.dropbox.com/scl/fi/hrl9l4c0h0qfzqk0m9c06/FertilityGenesSexualRevolution_april25.pdf?rlkey=vvtfzoh50kngxlpxni1izthl7&dl=0) with Nicola Barban and Marco Francesconi. April 2025.
+  - Previous version: "Gene-Environment Effects on Female Fertility" (2021) CEPR Discussion Paper No. 16603
+  - Research supported by the _British Academy/Leverhulme Small Research Grant_
 
 * ["Unveiling Shadows: The Impact of Unemployment on Child Maltreatment"](https://docs.iza.org/dp16799.pdf) with Daniel Brown. February 2024. 
   - Previous version: "Child Maltreatment, Unemployment, and Safety Nets". January 2020. SSRN Working Paper Series, No. 3543987.
   - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
 
-* ["Gene-Environment Effects on Female Fertility"](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16603) with Nicola Barban and Marco Francesconi. October 2021. Under review
-  - Research supported by the _British Academy/Leverhulme Small Research Grant_
+
 
 
 ## Selected work in progress
 * "Spare the Rod? Christian Missions and the Roots of Harsh Parenting" with Alberto Ciancio, Giulia La Mattina, and Luca Maria Pesando.
 
-* "Temperature and Harsh Parenting" with Philipp Anthony Naß, and Filippo Pavanello
+* "High Temperature and Harsh Parenting" with Philipp Anthony Naß, and Filippo Pavanello
 
 * "Tracing the Genetic Footprints of the UK National Health Service" with Nicolau Martin-Bassols, Pietro Biroli, Massimo Anelli, and Silvia Mendolia 
 
@@ -28,13 +29,10 @@ header:
 
 * "The intergenerational impact of gestational exposure to the National Health Service in the UK" with Genevieve Jeffrey and Alistair McGuire. 
   
-* "Metrics for Health Policy" with Joan Costa-i-Font and Ilias Kyriopoulos.
-
 * "The impact of the family planning program on fertility and mortality" with Nicola Barban and Marco Francesconi.
 
 * "The impact of direct and indirect exposure to child maltreatment and social care on educational and  labour market outcomes" with Dan Anderberg, Arnaud Chevalier, and Greta Morando 
 
-* "Understanding key barriers to Female Labor Force Participation: Sexual Harassment in the Workplace" with Niaz Asadullah and Elena Pisanelli
 
 
 ## Publications
