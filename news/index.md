@@ -16,6 +16,10 @@ STICERD Research Grant, August 2021 - July 2022 (£4,965)
 Co-I BA/Leverhulme Small Research Grant, January 2019 - April 2022 (£9,978.40)
 
 ## Recent and Upcoming Seminar and Conference Presentations
+October 2025 - Invited Seminar Universidad de Alicante, Department of Economics
+
+Septber 2025 - AIEL Milan
+
 July 2025 - Invited Seminar University of Technology Sydney, Department of Economics
 
 June 2025 - ESPE Naples
