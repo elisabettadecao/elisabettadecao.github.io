@@ -7,11 +7,11 @@ header:
 
 ---
 ## Working papers
-* ["Fertility, Genes, and the Sexual Revolution"](https://www.dropbox.com/scl/fi/hrl9l4c0h0qfzqk0m9c06/FertilityGenesSexualRevolution_april25.pdf?rlkey=vvtfzoh50kngxlpxni1izthl7&dl=0) with Nicola Barban and Marco Francesconi. April 2025.
+* ["Fertility, Genes, and the Sexual Revolution"](https://www.dropbox.com/scl/fi/hrl9l4c0h0qfzqk0m9c06/FertilityGenesSexualRevolution_april25.pdf?rlkey=vvtfzoh50kngxlpxni1izthl7&dl=0) with Nicola Barban and Marco Francesconi. April 2025. [_Submitted_]
   - Previous version: "Gene-Environment Effects on Female Fertility" (2021) CEPR Discussion Paper No. 16603
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
 
-* ["Unveiling Shadows: The Impact of Unemployment on Child Maltreatment"](https://docs.iza.org/dp16799.pdf) with Daniel Brown. February 2024. 
+* ["Unveiling Shadows: The Impact of Unemployment on Child Maltreatment"](https://docs.iza.org/dp16799.pdf) with Daniel Brown. February 2024. [_In preparation for submission_]
   - Previous version: "Child Maltreatment, Unemployment, and Safety Nets". January 2020. SSRN Working Paper Series, No. 3543987.
   - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
 
@@ -19,19 +19,25 @@ header:
 
 
 ## Selected work in progress
-* "Spare the Rod? Christian Missions and the Roots of Harsh Parenting" with Alberto Ciancio, Giulia La Mattina, and Luca Maria Pesando.
+* "Spare the Rod? Christian Missions and the Roots of Harsh Parenting" with Alberto Ciancio, Giulia La Mattina, and Luca Maria Pesando. [_Draft available soon_]
 
-* "High Temperature and Harsh Parenting" with Philipp Anthony Naß, and Filippo Pavanello
+* "High Temperature and Harsh Parenting" with Philipp Anthony Naß, and Filippo Pavanello. [_Draft available soon_]
 
-* "Tracing the Genetic Footprints of the UK National Health Service" with Nicolau Martin-Bassols, Pietro Biroli, Massimo Anelli, and Silvia Mendolia 
+* "Tracing the Genetic Footprints of the UK National Health Service" with Nicolau Martin-Bassols, Pietro Biroli, Massimo Anelli, and Silvia Mendolia. [_Draft available soon_]
 
-* "Education and teenage births  in the UK: A research note on the role of genetic propensities" with Selin Köksal, Nicola Barban, and Marco Francesconi.
+* "The Interplay Between Genetic Endowment and Automation: Evaluating Worker Vulnerability to Employment Shocks from Robotics" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. [_Draft available soon_]
 
-* "The intergenerational impact of gestational exposure to the National Health Service in the UK" with Genevieve Jeffrey and Alistair McGuire. 
+* "Education and teenage births  in the UK: A research note on the role of genetic propensities" with Selin Köksal, Nicola Barban, and Marco Francesconi. [_Draft available soon_]
+
+* "The child disability penalty: A global, comparative approach" with Nicoletta Balbo, Francesco De Luca, and Giorgio Nocerino, and Silvia Palmiotto. [_Draft available soon_]
+
+* "Genetically Informed Estimation of Marginal Returns to Education" with Pietro Biroli, Tomeu Lopez-Nieto Veitch, and Rodrigo Pinto.  [_Analysis stage_]
+
+* "The intergenerational impact of gestational exposure to the National Health Service in the UK" with Genevieve Jeffrey and Alistair McGuire. [_Analysis stage_]
   
-* "The impact of the family planning program on fertility and mortality" with Nicola Barban and Marco Francesconi.
+* "The impact of the Family Planning Association on fertility and mortality" with Nicola Barban and Marco Francesconi. [_Analysis stage_]
 
-* "The impact of direct and indirect exposure to child maltreatment and social care on educational and  labour market outcomes" with Dan Anderberg, Arnaud Chevalier, and Greta Morando 
+* "The impact of direct and indirect exposure to child maltreatment and social care on educational and  labour market outcomes" with Dan Anderberg, Arnaud Chevalier, and Greta Morando. [_Analysis stage_] 
 
 
 
