@@ -29,7 +29,7 @@ header:
 
 * "Education and teenage births  in the UK: A research note on the role of genetic propensities" with Selin Köksal, Nicola Barban, and Marco Francesconi. [_Draft available soon_]
 
-* "The child disability penalty: A global, comparative approach" with Nicoletta Balbo, Francesco De Luca, and Giorgio Nocerino, and Silvia Palmiotto. [_Draft available soon_]
+* "The child disability penalty: A global, comparative approach" with Nicoletta Balbo, Francesco De Luca, Giorgio Nocerino, and Silvia Palmiotto. [_Draft available soon_]
 
 * "Genetically Informed Estimation of Marginal Returns to Education" with Pietro Biroli, Tomeu Lopez-Nieto Veitch, and Rodrigo Pinto.  [_Analysis stage_]
 
