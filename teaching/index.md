@@ -8,6 +8,7 @@ header:
 ---
 ## Current courses:
 
-### [Fundamentals of Econometrics](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/481174), University of Bologna, MSc Health Economics and Management
+### [Fundamentals of Econometrics](https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/481174), University of Bologna, European MSc in Health Economics and Management (Eu-HEM)
 
-### [Health Econometrics](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/466740), University of Bologna, MSc Health Economics and Management
+### [Econometrics](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/518722), University of Bologna, MSc Health Economics and Management
+
