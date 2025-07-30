@@ -7,6 +7,8 @@ header:
 
 ---
 ## Working papers
+* ["A Research Note on Education, Teenage Births and The Role of Genetic Propensities"](https://www.dropbox.com/scl/fi/87gv75j6cz73n077km3er/Genes__education_and_fertility.pdf?rlkey=77mofqez47nde60kdungziobl&dl=0) with Selin Köksal, Nicola Barban, and Marco Francesconi. July 2025. [_Submitted_]
+
 * ["Fertility, Genes, and the Sexual Revolution"](https://www.dropbox.com/scl/fi/hrl9l4c0h0qfzqk0m9c06/FertilityGenesSexualRevolution_april25.pdf?rlkey=vvtfzoh50kngxlpxni1izthl7&dl=0) with Nicola Barban and Marco Francesconi. April 2025. [_Submitted_]
   - Previous version: "Gene-Environment Effects on Female Fertility" (2021) CEPR Discussion Paper No. 16603
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
@@ -26,8 +28,6 @@ header:
 * "Tracing the Genetic Footprints of the UK National Health Service" with Nicolau Martin-Bassols, Pietro Biroli, Massimo Anelli, and Silvia Mendolia. [_Draft available soon_]
 
 * "The Interplay Between Genetic Endowment and Automation: Evaluating Worker Vulnerability to Employment Shocks from Robotics" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. [_Draft available soon_]
-
-* "A Research Note on Education, Teenage Births and The Role of Genetic Propensities" with Selin Köksal, Nicola Barban, and Marco Francesconi. [_Draft available soon_]
 
 * "The child disability penalty: A global, comparative approach" with Nicoletta Balbo, Francesco De Luca, Giorgio Nocerino, and Silvia Palmiotto. [_Draft available soon_]
 
