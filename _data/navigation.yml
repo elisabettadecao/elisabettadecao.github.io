@@ -5,6 +5,9 @@ main:
 
 - title: Research
   url: /research/
+  
+- title: Publications
+  url: /docs/
 
 - title: Teaching
   url: /teaching/
