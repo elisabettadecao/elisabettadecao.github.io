@@ -22,7 +22,7 @@ November 2025 - University of Padua, Department of Economics
 
 October 2025 - University of Southern Denmark, Department of Economics / Universidad de Alicante, Department of Economics / University of Turin, Department of Economics
 
-July 2025 - Invited Seminar University of Technology Sydney, Department of Economics
+July 2025 - University of Technology Sydney, Department of Economics
 
 March 2025 - Universitat de Barcelona, Department of Economics / Universidad Autonoma de Madrid, Department of Economics
 
