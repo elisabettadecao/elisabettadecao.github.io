@@ -37,7 +37,7 @@ May 2025 - NBER Trends and Patterns in Health Disparities, Spring 2025
 
 October 2024 - AIEL Naples
 
-June 2023 - NBER Workshop Fertility and Declining Population Growth in High-Income Countries
+June 2023 - NBER Fertility and Declining Population Growth in High-Income Countries, Spring 2023
 
 ## Workshop co-organiser
 
