@@ -29,7 +29,7 @@ header:
 
 * "The Interplay Between Genetic Endowment and Automation: Evaluating Worker Vulnerability to Employment Shocks from Robotics" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. [_Draft available soon_]
 
-* "The child disability penalty: A global, comparative approach" with Nicoletta Balbo, Francesco De Luca, Giorgio Nocerino, and Silvia Palmiotto. [_Draft available soon_]
+# * "The child disability penalty: A global, comparative approach" with Nicoletta Balbo, Francesco De Luca, Giorgio Nocerino, and Silvia Palmiotto. [_Draft available soon_]
 
 * "Genetically Informed Estimation of Marginal Returns to Education" with Pietro Biroli, Tomeu Lopez-Nieto Veitch, and Rodrigo Pinto.  [_Analysis stage_]
 
