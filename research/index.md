@@ -21,7 +21,7 @@ header:
 
 
 ## Selected work in progress
-* "Spare the Rod? Christian Missions and the Roots of Harsh Parenting" with Alberto Ciancio, Giulia La Mattina, and Luca Maria Pesando. [_Draft available soon_]
+* "The Diffusion of Authoritarian Parenting in Africa" with Alberto Ciancio, Giulia La Mattina, and Luca Maria Pesando. [_Draft available soon_]
 
 * "High Temperature and Harsh Parenting" with Philipp Anthony Naß, and Filippo Pavanello. [_Draft available soon_]
 
