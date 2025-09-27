@@ -7,7 +7,7 @@ header:
 
 ---
 ## Working papers
-* ["A Research Note on Education, Teenage Births and The Role of Genetic Propensities"](https://www.dropbox.com/scl/fi/87gv75j6cz73n077km3er/Genes__education_and_fertility.pdf?rlkey=77mofqez47nde60kdungziobl&dl=0) with Selin Köksal, Nicola Barban, and Marco Francesconi. July 2025. ## RR Demography
+* ["A Research Note on Education, Teenage Births and The Role of Genetic Propensities"](https://www.dropbox.com/scl/fi/87gv75j6cz73n077km3er/Genes__education_and_fertility.pdf?rlkey=77mofqez47nde60kdungziobl&dl=0) with Selin Köksal, Nicola Barban, and Marco Francesconi. July 2025. _RR Demography_
 
 * ["Fertility, Genes, and the Sexual Revolution"](https://www.dropbox.com/scl/fi/hrl9l4c0h0qfzqk0m9c06/FertilityGenesSexualRevolution_april25.pdf?rlkey=vvtfzoh50kngxlpxni1izthl7&dl=0) with Nicola Barban and Marco Francesconi. April 2025. [_Submitted_]
   - Previous version: "Gene-Environment Effects on Female Fertility" (2021) CEPR Discussion Paper No. 16603
