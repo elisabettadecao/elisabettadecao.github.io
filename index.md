@@ -5,7 +5,7 @@ header:
   image: "/assets/images/panorama_web.jpg"
 ---
 
-Professor in Economics
+Professor of Economics
 
 University of Bologna, Department of Economics
 
