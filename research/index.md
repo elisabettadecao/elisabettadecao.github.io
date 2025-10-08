@@ -27,7 +27,7 @@ header:
 
 * "Tracing the Genetic Footprints of the UK National Health Service" with Nicolau Martin-Bassols, Massimo Anelli, Pietro Biroli, Stephanie von Hinke, and Silvia Mendolia. [_Draft available soon_]
 
-* "The Interplay Between Genetic Endowment and Automation: Evaluating Worker Vulnerability to Employment Shocks from Robotics" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. [_Draft available soon_]
+* "The Heterogeneous Impact of Automation on Older Workers" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. [_Draft available soon_]
 
 * "Genetically Informed Estimation of Marginal Returns to Education" with Pietro Biroli, Tomeu Lopez-Nieto Veitch, and Rodrigo Pinto.  [_Analysis stage_]
 
