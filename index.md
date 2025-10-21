@@ -5,13 +5,15 @@ header:
   image: "/assets/images/panorama_web.jpg"
 ---
 
-Professor of Economics
+Full Professor of Economics
 
 University of Bologna, Department of Economics
 
+[IZA Research Fellow](https://www.iza.org/person/6099/elisabetta-de-cao)
+
 [LSE Visiting Fellow](https://www.lse.ac.uk/health-policy/people/dr-elisabetta-de-cao)
 
-[IZA Research Fellow](https://www.iza.org/person/6099/elisabetta-de-cao)
+[ESPE Council Member](https://www.espe.org)(2026-2029)
 
 # Research Interests
 * Health economics 
