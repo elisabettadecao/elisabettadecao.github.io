@@ -20,9 +20,7 @@ ERC Consolidator Grantee, Uncovering the Roots of Harsh Parenting (HARSH), Septe
 
 # Contact Details
 Dipartimento di Scienze Economiche 
-
 Piazza Scaravilli 2, Bologna 
-
 E-mail: elisabetta.decao@unibo.it (or e.de-cao@lse.ac.uk)
 
 
