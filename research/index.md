@@ -7,11 +7,11 @@ header:
 
 ---
 ## Working papers
-* ["A Research Note on Education, Teenage Births and The Role of Genetic Propensities"](https://www.dropbox.com/scl/fi/87gv75j6cz73n077km3er/Genes__education_and_fertility.pdf?rlkey=77mofqez47nde60kdungziobl&dl=0) with Selin Köksal, Nicola Barban, and Marco Francesconi. July 2025. **R&R Demography**
-
-* ["Fertility, Genes, and the Sexual Revolution"](https://www.dropbox.com/scl/fi/hrl9l4c0h0qfzqk0m9c06/FertilityGenesSexualRevolution_april25.pdf?rlkey=vvtfzoh50kngxlpxni1izthl7&dl=0) with Nicola Barban and Marco Francesconi. April 2025. [_Submitted_]
+* ["Fertility, Genes, and the Sexual Revolution"](https://www.dropbox.com/scl/fi/hrl9l4c0h0qfzqk0m9c06/FertilityGenesSexualRevolution_april25.pdf?rlkey=vvtfzoh50kngxlpxni1izthl7&dl=0) with Nicola Barban and Marco Francesconi. April 2025. **R&R Journal of the European Economic Association**
   - Previous version: "Gene-Environment Effects on Female Fertility" (2021) CEPR Discussion Paper No. 16603
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
+ 
+* ["A Research Note on Education, Teenage Births and The Role of Genetic Propensities"](https://www.dropbox.com/scl/fi/87gv75j6cz73n077km3er/Genes__education_and_fertility.pdf?rlkey=77mofqez47nde60kdungziobl&dl=0) with Selin Köksal, Nicola Barban, and Marco Francesconi. July 2025. **R&R Demography**
 
 * ["Unveiling Shadows: The Impact of Unemployment on Child Maltreatment"](https://docs.iza.org/dp16799.pdf) with Daniel Brown. February 2024. [_In preparation for submission_]
   - Previous version: "Child Maltreatment, Unemployment, and Safety Nets". January 2020. SSRN Working Paper Series, No. 3543987.
