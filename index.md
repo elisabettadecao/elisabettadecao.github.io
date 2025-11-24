@@ -13,7 +13,7 @@ University of Bologna, Department of Economics
 
 [LSE Visiting Fellow](https://www.lse.ac.uk/health-policy/people/dr-elisabetta-de-cao)
 
-[ESPE Council Member](https://www.espe.org) (2026-2029)
+[ESPE Council Member](https://www.espe.org) (2026-2028)
 
 # Research Interests
 * Health economics 
