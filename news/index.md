@@ -18,6 +18,8 @@ Co-I BA/Leverhulme Small Research Grant, January 2019 - April 2022 (£9,978.40)
 ## Recent and Upcoming Invited Seminars
 March 2026 - Paris-Dauphine, LEDa-DIAL
 
+February 2026 - LSE Health Policy
+
 November 2025 - University of Padua, Department of Economics
 
 October 2025 - University of Southern Denmark, Department of Economics / Universidad de Alicante, Department of Economics / University of Turin, Department of Economics
@@ -29,6 +31,8 @@ March 2025 - Universitat de Barcelona, Department of Economics / Universidad Aut
 October 2024 - Workshop Educational Interventions and Inequalities in Montepulciano
 
 ## Recent and Upcoming Conference Presentations
+January 2026 - AlpPop La Thuille
+
 September 2025 - AIEL Milan
 
 June 2025 - ESPE Naples
