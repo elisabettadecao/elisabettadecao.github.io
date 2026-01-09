@@ -23,7 +23,7 @@ Dipartimento di Scienze Economiche
 
 Piazza Scaravilli 2, Bologna 
 
-E-mail: elisabetta.decao@unibo.it (or e.de-cao@lse.ac.uk)
+E-mail: elisabetta.decao@unibo.it 
 
 
 
