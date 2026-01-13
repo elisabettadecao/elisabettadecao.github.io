@@ -29,7 +29,7 @@ July 2025 - University of Technology Sydney, Department of Economics
 March 2025 - Universitat de Barcelona, Department of Economics / Universidad Autonoma de Madrid, Department of Economics
 
 ## Recent and Upcoming Conference Presentations
-January 2026 - AlpPop La Thuille
+January 2026 - AlpPop La Thuile
 
 September 2025 - AIEL Milan
 
