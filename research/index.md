@@ -7,6 +7,8 @@ header:
 
 ---
 ## Working papers
+* "Tracing the Genetic Footprints of the UK National Health Service"[https://www.ifo.de/en/cesifo/publications/2026/working-paper/tracing-genetic-footprints-uk-national-health-service] with Nicolau Martin-Bassols, Massimo Anelli, Pietro Biroli, Stephanie von Hinke, and Silvia Mendolia. January 2026. 
+  
 * ["Fertility, Genes, and the Sexual Revolution"](https://www.dropbox.com/scl/fi/hrl9l4c0h0qfzqk0m9c06/FertilityGenesSexualRevolution_april25.pdf?rlkey=vvtfzoh50kngxlpxni1izthl7&dl=0) with Nicola Barban and Marco Francesconi. April 2025. **R&R Journal of the European Economic Association**
   - Previous version: "Gene-Environment Effects on Female Fertility" (2021) CEPR Discussion Paper No. 16603
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
@@ -24,9 +26,7 @@ header:
 * "The Diffusion of Authoritarian Parenting in Africa" with Alberto Ciancio, Giulia La Mattina, and Luca Maria Pesando. [_Draft available soon_]
 
 * "High Temperature and Harsh Parenting" with Philipp Anthony Naß, and Filippo Pavanello. [_Draft available soon_]
-
-* "Tracing the Genetic Footprints of the UK National Health Service" with Nicolau Martin-Bassols, Massimo Anelli, Pietro Biroli, Stephanie von Hinke, and Silvia Mendolia. [_Draft available soon_]
-
+ 
 * "The Heterogeneous Impact of Automation on Older Workers" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. [_Draft available soon_]
 
 * "Genetically Informed Estimation of Marginal Returns to Education" with Pietro Biroli, Tomeu Lopez-Nieto Veitch, and Rodrigo Pinto.  [_Analysis stage_]
