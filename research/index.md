@@ -7,7 +7,7 @@ header:
 
 ---
 ## Working papers
-* "Tracing the Genetic Footprints of the UK National Health Service"[https://www.ifo.de/en/cesifo/publications/2026/working-paper/tracing-genetic-footprints-uk-national-health-service] with Nicolau Martin-Bassols, Massimo Anelli, Pietro Biroli, Stephanie von Hinke, and Silvia Mendolia. January 2026. 
+* "Tracing the Genetic Footprints of the UK National Health Service"[https://www.ifo.de/en/cesifo/publications/2026/working-paper/tracing-genetic-footprints-uk-national-health-service] with Nicolau Martin-Bassols, Pietro Biroli, Massimo Anelli, Stephanie von Hinke, and Silvia Mendolia. January 2026. 
   
 * ["Fertility, Genes, and the Sexual Revolution"](https://www.dropbox.com/scl/fi/hrl9l4c0h0qfzqk0m9c06/FertilityGenesSexualRevolution_april25.pdf?rlkey=vvtfzoh50kngxlpxni1izthl7&dl=0) with Nicola Barban and Marco Francesconi. April 2025. **R&R Journal of the European Economic Association**
   - Previous version: "Gene-Environment Effects on Female Fertility" (2021) CEPR Discussion Paper No. 16603
