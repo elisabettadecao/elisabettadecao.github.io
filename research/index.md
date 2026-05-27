@@ -29,6 +29,10 @@ header:
  
 * "The Heterogeneous Impact of Automation on Older Workers" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. [_Draft available soon_]
 
+* "Children with Disabilities: Parental Labour-Market Penalties Worldwide" with Nicoletta Balbo, Francesco De Luca, Giorgio Nocerino and Silvia Palmaccio. [_Draft available soon_]
+
+* "Public health insurance slows epigenetic aging in children" with Martin-Bassols, Pietro Biroli, and Lauren L. Schmitz. [_Draft available soon_]
+
 * "Genetically Informed Estimation of Marginal Returns to Education" with Pietro Biroli, Tomeu Lopez-Nieto Veitch, and Rodrigo Pinto.  [_Analysis stage_]
 
 * "The intergenerational impact of gestational exposure to the National Health Service in the UK" with Genevieve Jeffrey and Alistair McGuire. [_Analysis stage_]
