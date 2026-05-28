@@ -31,13 +31,15 @@ header:
 
 * "Children with Disabilities: Parental Labour-Market Penalties Worldwide" with Nicoletta Balbo, Francesco De Luca, Giorgio Nocerino and Silvia Palmaccio. [_Draft available soon_]
 
-* "Public health insurance slows epigenetic aging in children" with Martin-Bassols, Pietro Biroli, and Lauren L. Schmitz. [_Draft available soon_]
+* "Public Health Insurance Slows Epigenetic Aging in Children" with Martin-Bassols, Pietro Biroli, and Lauren L. Schmitz. [_Draft available soon_]
 
 * "Genetically Informed Estimation of Marginal Returns to Education" with Pietro Biroli, Tomeu Lopez-Nieto Veitch, and Rodrigo Pinto.  [_Analysis stage_]
 
-* "The intergenerational impact of gestational exposure to the National Health Service in the UK" with Genevieve Jeffrey and Alistair McGuire. [_Analysis stage_]
+* "The Intergenerational Impact of Gestational Exposure to the National Health Service in the UK" with Genevieve Jeffrey and Alistair McGuire. [_Analysis stage_]
   
 * "Children by Choice, Not Chance: Family Planning Associations and Fertility in Britain" with Nicola Barban, Marco Francesconi, Stephanie von Hinke, and Sara Tozzi. [_Analysis stage_]
+
+* "Unilateral Divorce and Harsh Parenting: Evidence from East Germany" with Luca Bagnato, and Annachiara Mariani. [_Analysis stage_]
 
 * "The impact of direct and indirect exposure to child maltreatment and social care on educational and  labour market outcomes" with Dan Anderberg, Arnaud Chevalier, and Greta Morando. [_Analysis stage_] 
 
