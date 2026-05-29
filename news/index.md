@@ -16,6 +16,8 @@ STICERD Research Grant, August 2021 - July 2022 (£4,965)
 Co-I BA/Leverhulme Small Research Grant, January 2019 - April 2022 (£9,978.40)
 
 ## Recent and Upcoming Invited Seminars
+June 2026 - Keynote EAPS Child and Adolescent Working Group, EPC Bologna 
+
 March 2026 - Paris-Dauphine, LEDa-DIAL
 
 February 2026 - LSE Health Policy
@@ -29,6 +31,10 @@ July 2025 - University of Technology Sydney, Department of Economics
 March 2025 - Universitat de Barcelona, Department of Economics / Universidad Autonoma de Madrid, Department of Economics
 
 ## Recent and Upcoming Conference Presentations
+June 2026 - ESPE Helsinky
+
+May 2026 - Ridge Forum Barbados
+
 January 2026 - AlpPop La Thuile
 
 September 2025 - AIEL Milan
