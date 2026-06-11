@@ -7,7 +7,7 @@ header:
 
 Full Professor of Economics, University of Bologna, Department of Economics
 
-[ERC Consolidator Grantee](https://site.unibo.it/harsh/en), Uncovering the Roots of Harsh Parenting (HARSH), September 2025-August 2030
+ERC Consolidator Grantee, [Uncovering the Roots of Harsh Parenting (HARSH)](https://site.unibo.it/harsh/en), September 2025-August 2030
 
 [IZA Research Fellow](https://www.iza.org/person/6099/elisabetta-de-cao) / [LSE Visiting Fellow](https://www.lse.ac.uk/health-policy/people/dr-elisabetta-de-cao) / [ESPE Council Member](https://www.espe.org) (2026-2028)
 
