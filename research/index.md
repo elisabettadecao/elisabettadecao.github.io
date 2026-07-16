@@ -27,7 +27,7 @@ header:
 
 * "High Temperature and Harsh Parenting" with Philipp Anthony Naß, and Filippo Pavanello. [_Draft available soon_]
  
-* "The Heterogeneous Impact of Automation on Older Workers" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. [_Draft available soon_]
+* "Adapting to Automation: Genetic Evidence on Workers' Heterogeneity and Displacement" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. [_Draft available soon_]
 
 * "Children with Disabilities: Parental Labour-Market Penalties Worldwide" with Nicoletta Balbo, Francesco De Luca, Giorgio Nocerino and Silvia Palmaccio. [_Draft available soon_]
 
