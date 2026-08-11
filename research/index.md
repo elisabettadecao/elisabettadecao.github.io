@@ -17,7 +17,7 @@ header:
   - Previous version: "Gene-Environment Effects on Female Fertility" (2021) CEPR Discussion Paper No. 16603
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
  
-* ["Unveiling Shadows: The Impact of Unemployment on Child Maltreatment"](https://docs.iza.org/dp16799.pdf) with Daniel Brown. February 2024. [_In preparation for submission_]
+* ["Unveiling Shadows: The Impact of Unemployment on Child Maltreatment"](https://docs.iza.org/dp16799.pdf) with Daniel Brown. February 2024. [_Under review_]
   - Previous version: "Child Maltreatment, Unemployment, and Safety Nets". January 2020. SSRN Working Paper Series, No. 3543987.
   - Media coverage: [RES 2019](https://www.res.org.uk/resources-page/when-unemployment-leads-to-maltreatment-of-children-new-evidence-from-the-united-states.html), [ITV](http://www.itv.com/news/meridian/update/2017-11-03/oxford-university-finds-unemployment-a-factor-of-child-neglect/), [International Business Times](http://www.ibtimes.co.uk/there-direct-link-between-rises-child-abuse-mass-unemployment-1645687), [Oxford University News](http://www.ox.ac.uk/news/2017-11-02-child-neglect-linked-parental-unemployment).
 
