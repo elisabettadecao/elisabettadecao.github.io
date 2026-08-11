@@ -7,7 +7,7 @@ header:
 
 ---
 ## Working papers
-* "Adapting to Automation: Genetic Evidence on Workers' Heterogeneity and Displacement" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. August 2026. _Submitted_ [_Draft available upon request]
+* "Adapting to Automation: Genetic Evidence on Workers' Heterogeneity and Displacement" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. August 2026. _Submitted_ [_Draft available upon request_]
   
 * ["Tracing the Genetic Footprints of the UK National Health Service"](https://www.ifo.de/en/cesifo/publications/2026/working-paper/tracing-genetic-footprints-uk-national-health-service) with Nicolau Martin-Bassols, Pietro Biroli, Massimo Anelli, Stephanie von Hinke, and Silvia Mendolia. January 2026. _Under review_
 
