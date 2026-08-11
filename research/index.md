@@ -7,7 +7,9 @@ header:
 
 ---
 ## Working papers
-* ["Tracing the Genetic Footprints of the UK National Health Service"](https://www.ifo.de/en/cesifo/publications/2026/working-paper/tracing-genetic-footprints-uk-national-health-service) with Nicolau Martin-Bassols, Pietro Biroli, Massimo Anelli, Stephanie von Hinke, and Silvia Mendolia. January 2026. _Submitted_
+* "Adapting to Automation: Genetic Evidence on Workers' Heterogeneity and Displacement" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. August 2026. _Submitted_ [_Draft available upon request]
+  
+* ["Tracing the Genetic Footprints of the UK National Health Service"](https://www.ifo.de/en/cesifo/publications/2026/working-paper/tracing-genetic-footprints-uk-national-health-service) with Nicolau Martin-Bassols, Pietro Biroli, Massimo Anelli, Stephanie von Hinke, and Silvia Mendolia. January 2026. _Under review_
 
 * ["Global Levels and Trends in Child Discipline: Evidence from 88 Countries, 2005-2023"](https://www.medrxiv.org/content/10.64898/2026.02.13.26346262v1) with John Egyir, Katherina Thomas, Elisabetta Aurino. February 2026. _Submitted_
   
@@ -26,8 +28,6 @@ header:
 * "The Diffusion of Authoritarian Parenting in Africa" with Alberto Ciancio, Giulia La Mattina, and Luca Maria Pesando. [_Draft available soon_]
 
 * "High Temperature and Harsh Parenting" with Philipp Anthony Naß, and Filippo Pavanello. [_Draft available soon_]
- 
-* "Adapting to Automation: Genetic Evidence on Workers' Heterogeneity and Displacement" with Massimo Anelli, Pietro Biroli, Silvia Mendolia, and Yannick Reichlin. [_Draft available soon_]
 
 * "Children with Disabilities: Parental Labour-Market Penalties Worldwide" with Nicoletta Balbo, Francesco De Luca, Giorgio Nocerino and Silvia Palmaccio. [_Draft available soon_]
 
