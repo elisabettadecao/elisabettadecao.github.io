@@ -13,7 +13,7 @@ header:
 
 * ["Global Levels and Trends in Child Discipline: Evidence from 88 Countries, 2005-2023"](https://www.medrxiv.org/content/10.64898/2026.02.13.26346262v1) with John Egyir, Katherina Thomas, Elisabetta Aurino. February 2026. **R&R BMJ Global Health**
   
-* ["Fertility, Genes, and the Sexual Revolution"](https://www.dropbox.com/scl/fi/hrl9l4c0h0qfzqk0m9c06/FertilityGenesSexualRevolution_april25.pdf?rlkey=vvtfzoh50kngxlpxni1izthl7&dl=0) with Nicola Barban and Marco Francesconi. April 2025. **R&R Journal of the European Economic Association**
+* ["Fertility, Genes, and the Sexual Revolution"](/Users/elisabettadecao/Library/CloudStorage/Dropbox/JEEA_review2026/revision/DOC_TO_SUBMIT/MS16622_revised.pdf) with Nicola Barban and Marco Francesconi. New version November 2026. **R&R Journal of the European Economic Association**
   - Previous version: "Gene-Environment Effects on Female Fertility" (2021) CEPR Discussion Paper No. 16603
   - Research supported by the _British Academy/Leverhulme Small Research Grant_
  
